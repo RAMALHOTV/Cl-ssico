@@ -624,7 +624,14 @@
 <thumbnail>https://4.bp.blogspot.com/-NdrGXovBtcg/W5MqsXmX-HI/AAAAAAAAQvA/n1fMi2XYYRQDzsk0fLx6rMjXqNXxwjJsgCLcBGAs/s1600/Rambo%2Bcole%25C3%25A7%25C3%25A3o%2Bcompleta%2Btodos%2Bos%2Bfilmes%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpeg</thumbnail>
 <fanart>https://4.bp.blogspot.com/-NdrGXovBtcg/W5MqsXmX-HI/AAAAAAAAQvA/n1fMi2XYYRQDzsk0fLx6rMjXqNXxwjJsgCLcBGAs/s1600/Rambo%2Bcole%25C3%25A7%25C3%25A3o%2Bcompleta%2Btodos%2Bos%2Bfilmes%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpeg</fanart>
 <info>Sinopse:[COLOR yellow][B]Coleção completa com todos os filmes da franquia Rambo (First Blood). Todos os filmes do Rambo dublados e em dual áudio com qualidade de blu-ray 720p HD. Rambo 1 - Programado Para Matar, Rambo 2 - A Missão, Rambo 3 e Rambo 4 o último filme da franquia. John Rambo, é um veterano de guerra do Vietnã, preso injustamente pelo xerife Will Teasle. Após muita tortura, consegue fugir e começa uma violenta vingança contra aqueles que o atormentaram. [COLOR white][B] Gênero:[COLOR lime]Ação / Clássico / Guerra / Suspense[/COLOR][/B]</info></item> </info>
-</item>                                                                          
+</item> 
+<item>
+<title>[B]Indiana Jones - Coleção[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03dcdbe43adc048137017f303b433d02ba520d6d$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
+<thumbnail>https://i.imgur.com/QFTOJxi.jpg</thumbnail>
+<fanart>https://i.imgur.com/QFTOJxi.jpg</fanart>
+<info>Sinopse:[COLOR yellow][B]Indiana Jones e Os Caçadores da Arca Perdida (Raiders Of The Lost Ark): Veja como tudo começou. Prepare-se para fortes emoções em Indiana Jones e Os Caçadores da Arca Perdida, Indy (Harrison Ford) e sua decidida ex-namorada Marion Ravenwood (Karen Allen) sobrevivem a armadilhas, combatem nazistas e encaram serpentes em sua incrível missão ao redor do mundo, em busca dea mística Arca da Aliança. Experimente uma empolgante aventura atrás da outra com o primeiro e único Indiana Jones. [COLOR white][B] Gênero:[COLOR lime]Aventura / Clássico[/COLOR][/B]</info></item> </info>
+</item>          
                                                                
                                                               
                                                         
