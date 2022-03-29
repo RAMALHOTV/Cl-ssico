@@ -4,6 +4,7 @@
 <item>
 <title>[B]Advogado do Diabo[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QPRNRYSVQ2OOPIIGBLYAJ6G2GHCQLM6T$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QPRNRYSVQ2OOPIIGBLYAJ6G2GHCQLM6T$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/advogado-do-diabo-the-devils-advocate-download-torrent-1997-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/advogado-do-diabo-the-devils-advocate-download-torrent-1997-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
 <info>Sinopse:[COLOR yellow][B]Kevin Lomax (Keanu Reeves) é um homem de sucesso dentro e fora do tribunal. Um jovem advogado de defesa que nunca perdeu uma causa, por pior que seja o crime cometido por seus clientes. John Milton (Al Pacino) é o misterioso e brilhante presidente de uma poderosa firma de advocacia com interesses e clientes no mundo inteiro. O que há de comum entre esses dois homens? Uma tentadora oferta de trabalho, a chance de alcançar o sucesso de uma vez por todas e um segredo que irá transformar a vida de Kevin em uma viagem ao inferno. [COLOR white][B] Gênero:[COLOR lime]Clássico / Drama / Mistério / Suspense[/COLOR][/B]</info></item> </info>
@@ -11,6 +12,7 @@
   
 <item>
 <title>[B]Stallone - Cobra[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7YJWQO7YRAPUBIS25GPMAQ4TL5L52M5Q$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7YJWQO7YRAPUBIS25GPMAQ4TL5L52M5Q$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/stallone-cobra-download-torrent-1986-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/stallone-cobra-download-torrent-1986-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
