@@ -10,7 +10,7 @@
 </item>
   
 <item>
-<title>[B][COLOR white]Stallone - Cobra[COLOR yellow][/B]</title>
+<title>[B]Stallone - Cobra[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7YJWQO7YRAPUBIS25GPMAQ4TL5L52M5Q$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/stallone-cobra-download-torrent-1986-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/stallone-cobra-download-torrent-1986-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -18,7 +18,7 @@
 </item>
   
 <item>
-<title>[B][COLOR white]Allan Quatermain e a Cidade do Ouro Perdido[COLOR yellow][/B]</title>
+<title>[B]Allan Quatermain e a Cidade do Ouro Perdido[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:16810e576e835116b3d6d4a76723b172a1217593$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/allan-quatermain-e-a-cidade-do-ouro-perdido-download-torrent-1986-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/allan-quatermain-e-a-cidade-do-ouro-perdido-download-torrent-1986-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -26,14 +26,14 @@
 </item>
   
 <item>
-<title>[B][COLOR white]Um Crime Perfeito [COLOR yellow][/B]</title>
+<title>[B]Um Crime Perfeito [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FY25XPSCQZDCIENQJ7TQJX5YZWH4XAFZ$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/um-crime-perfeito-a-perfect-murder-download-torrent-1998-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/um-crime-perfeito-a-perfect-murder-download-torrent-1998-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
 <info>Sinopse:[COLOR yellow][B]Emily Bradford Taylor (Gwyneth Paltrow), a dona de uma fortuna de 100 milhões de dólares, é casada com Steven Taylor (Michael Douglas), um rico homem de negócios que atravessa uma gravíssima crise financeira que pode arruiná-lo. No entanto, Emily está apaixonada por David Shaw (Viggo Mortensen), um pintor conhecido do casal. Um dia, Steven vai no apartamento de David para ver seus quadros e lhe diz que sabe que sua mulher está tendo um caso com ele e também que ele aprendeu pintura quando cumpria sua segunda sentença na prisão. Além disto, Steven sabe que David já esteve se aproveitando de outras mulheres ricas, mas mesmo assim lhe faz uma proposta: oferece ao pintor 500 mil dólares para ele sumir, mas antes tem de matar Emily, fazendo com que pareça um acidente. Apesar da proposta ser bem incomum, David concorda em fazer o serviço. [COLOR white][B] Gênero:[COLOR lime]Clássico / Drama / Policial / Suspense[/COLOR][/B]</info></item> </info>
 </item>
 <item>
-<title>[B][COLOR white]Joe e as Baratas [COLOR yellow][/B]</title>
+<title>[B]Joe e as Baratas [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:I7OL3SIUF4XUCM3AXZ7XM5NG25KREKHS$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/joe-e-as-baratas-joes-apartment-download-torrent-1996-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/joe-e-as-baratas-joes-apartment-download-torrent-1996-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -41,7 +41,7 @@
 </item>
   
 <item>
-<title>[B][COLOR white]Comboio[COLOR yellow][/B]</title>
+<title>[B]Comboio[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5496a197966f1fa4346ff481752d25c3bf7d7867$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/comboio-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/comboio-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -49,7 +49,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]A Maldição[COLOR yellow][/B]</title>
+<title>[B]A Maldição[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:magnet:?xt=urn:btih:7698f60ba209d8d6aa46748e9a33f0d69faea592&dn=COMOEUBAIXO.COM..BLURAY.1080P.MKV.-DUBLADO-DUAL-AUDIO-..$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/a-maldicao-thinner-download-torrent-1996-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/a-maldicao-thinner-download-torrent-1996-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -57,14 +57,14 @@
 </item>
   
 <item>
-<title>[B][COLOR white]Dragões para Sempre [COLOR yellow][/B]</title>
+<title>[B]Dragões para Sempre [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:hgmx4l5zqgl4v24qjwlgpzk3wa67d5zb$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/dragoes-para-sempre-download-torrent-1988-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/dragoes-para-sempre-download-torrent-1988-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
 <info>Sinopse:[COLOR yellow][B]Jackie, é um advogado contratado para defender uma indústria química que está poluindo a água da cidade. Quando a dona de uma propriedade local processa a indústria, Jackie, pede ajuda a seus amigos, Sammo, um negociante de armas e Yuen Biao, um louco especialista em tecnologia. Ao conhecer a garota que está nesta luta pelos seus direitos e descobrir que a indústria não passa de uma fábrica de drogas, Jackie, muda de lado. [COLOR white][B] Gênero:[COLOR lime]Ação / Clássico / Comédia / Romance[/COLOR][/B]</info></item> </info>
 </item>
 <item>
-<title>[B][COLOR white]Na Linha De Fogo[COLOR yellow][/B]</title>
+<title>[B]Na Linha De Fogo[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b0405a910d008d693d6ffb1b0ef7f63838ecc84b$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/na-linha-de-fogo-in-the-line-of-fire-download-torrent-1993-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/na-linha-de-fogo-in-the-line-of-fire-download-torrent-1993-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -72,7 +72,7 @@
 </item>
   
 <item>
-<title>[B][COLOR white]Edward Mãos de Tesoura[COLOR yellow][/B]</title>
+<title>[B]Edward Mãos de Tesoura[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YGVBLJMPOOUH4MC3C2C2LNJ2PRWL3JXJ$nome=[COLOR yellow]BLURAY 720P[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BPFWQSB6HJFCK5N7YZZHWIRFVPTQV4S4$nome=[COLOR yellow]BLURAY 1080P[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/edward-maos-de-tesoura-edward-scissorhands-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
@@ -80,7 +80,7 @@
 <info>Sinopse:[COLOR yellow][B]Peg Boggs (Dianne Wiest) é uma vendedora da Avon que acidentalmente descobre Edward (Johnny Depp), um jovem que mora sozinho em um castelo no topo de uma montanha e que na verdade foi criado por um inventor (Vincent Price), que morreu antes de dar mãos ao estranho ser, que possui apenas enormes lâminas no lugar delas. Isto o impede de poder se aproximar dos humanos, a não ser para criar revolucionários cortes de cabelos, mas ele dá vazão à sua solidão interior ao podar a vegetação em forma de figuras ou esculpir lindas imagens no gelo. No entanto, Edward é vítima da sua inocência e, se é amado por uns, é perseguido e usado por outros. [COLOR white][B] Gênero:[COLOR lime]Clássico / Drama / Fantasia / Romance[/COLOR][/B]</info></item> </info>
 </item>
 <item>
-<title>[B][COLOR white]Space Jam - O Jogo do Século[COLOR yellow][/B]</title>
+<title>[B]Space Jam - O Jogo do Século[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9fdbe420deac00376228cd00ffb12202e9d06827$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/space-jam-o-jogo-do-seculo-bluray-download-torrent-1996-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/space-jam-o-jogo-do-seculo-bluray-download-torrent-1996-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -89,7 +89,7 @@
     
   
 <item>
-<title>[B][COLOR white]A Última Fortaleza[COLOR yellow][/B]</title>
+<title>[B]A Última Fortaleza[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:06ec272e546973d764948d26ac30b97946fccf16$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/a-ultima-fortaleza-the-last-castle-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/a-ultima-fortaleza-the-last-castle-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -98,7 +98,7 @@
     
   
 <item>
-<title>[B][COLOR white]Laranja Mecânica[COLOR yellow][/B]</title>
+<title>[B]Laranja Mecânica[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b94d6b8616ba0d65912a439a9118458f47e8c46$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/laranja-mecanica-a-clockwork-orange-download-torrent-1971-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/laranja-mecanica-a-clockwork-orange-download-torrent-1971-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -107,7 +107,7 @@
     
   
 <item>
-<title>[B][COLOR white]Ameaça Subterrânea [COLOR yellow][/B]</title>
+<title>[B]Ameaça Subterrânea[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a754685c044e77c2fb5564e6d9f65a7ffc67c8f$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/ameaca-subterranea-download-torrent-1997-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/ameaca-subterranea-download-torrent-1997-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -116,7 +116,7 @@
     
   
 <item>
-<title>[B][COLOR white]Em Terreno Selvagem [COLOR yellow][/B]</title>
+<title>[B]Em Terreno Selvagem [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ac16c6c6bdcb851fd1b815333ddd5b368094a2d1$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/em-terreno-selvagem-download-torrent-1994-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/em-terreno-selvagem-download-torrent-1994-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -125,7 +125,7 @@
     
   
 <item>
-<title>[B][COLOR white]O Último Grande Herói[COLOR yellow][/B]</title>
+<title>[B]O Último Grande Herói[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76d2e46bd9d0548cefd6005b649723cb26ee4bab$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/o-ultimo-grande-heroi-last-action-hero-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/o-ultimo-grande-heroi-last-action-hero-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -134,7 +134,7 @@
     
   
 <item>
-<title>[B][COLOR white]Conquista do Planeta dos Macacos[COLOR yellow][/B]</title>
+<title>[B]Conquista do Planeta dos Macacos[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20fae7bd176d8151b8eb8ddedb6fce7b2e24b016$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/conquista-do-planeta-dos-macacos-conquest-of-the-planet-of-the-apes-download-torrent-1972-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/conquista-do-planeta-dos-macacos-conquest-of-the-planet-of-the-apes-download-torrent-1972-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -143,7 +143,7 @@
     
   
 <item>
-<title>[B][COLOR white]Comando Imbatível[COLOR yellow][/B]</title>
+<title>[B]Comando Imbatível[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f30b4184df97230ee3ba5c08a3476945d1b5949a$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/comando-imbativel-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/comando-imbativel-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -152,7 +152,7 @@
     
   
 <item>
-<title>[B][COLOR white]Garantia de Morte[COLOR yellow][/B]</title>
+<title>[B]Garantia de Morte[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79af0be7dd9bf6a44a8cf393987acb2935382060$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/garantia-de-morte-death-warrant-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/garantia-de-morte-death-warrant-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -161,7 +161,7 @@
     
   
 <item>
-<title>[B][COLOR white]Rede de Corrupção[COLOR yellow][/B]</title>
+<title>[B]Rede de Corrupção[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0129df4c1372dceca9e92e29f76dd4f1f0bcefc1$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/rede-de-corrupcao-exit-wounds-download-torrent-2001-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/rede-de-corrupcao-exit-wounds-download-torrent-2001-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -170,7 +170,7 @@
     
   
 <item>
-<title>[B][COLOR white]Um Tira Muito Suspeito[COLOR yellow][/B]</title>
+<title>[B]Um Tira Muito Suspeito[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ffb42a1caad28e85c6feb989c9cfdf57ea86fc36$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/um-tira-muito-suspeito-blue-streak-download-torrent-1999-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/um-tira-muito-suspeito-blue-streak-download-torrent-1999-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -179,7 +179,7 @@
     
   
 <item>
-<title>[B][COLOR white]Um Príncipe em Nova York[COLOR yellow][/B]</title>
+<title>[B]Um Príncipe em Nova York[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UG7GD4AST6ZI4EETC7LJUJNVVPIIMDW6$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/um-principe-em-nova-york-coming-to-america-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/um-principe-em-nova-york-coming-to-america-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -187,7 +187,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]O Pai da Noiva [COLOR yellow][/B]</title>
+<title>[B]O Pai da Noiva [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0eb6443197eb44b49273e5c050894400d9773bbb$nome=[COLOR yellow]BLURAY 720P[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/o-pai-da-noiva-todos-os-filmes-download-torrent-1995-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/o-pai-da-noiva-todos-os-filmes-download-torrent-1995-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -196,7 +196,7 @@
     
   
 <item>
-<title>[B][COLOR white]Desejo de Matar 5[COLOR yellow][/B]</title>
+<title>[B]Desejo de Matar 5[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C56C302BB97BDE3F66C81A584847395C0961CF49$nome=[COLOR yellow]BLURAY 720P[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/desejo-de-matar-5-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/desejo-de-matar-5-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -204,7 +204,7 @@
 </item>
     
 <item>
-<title>[B][COLOR white]Matrix[COLOR yellow][/B]</title>
+<title>[B]Matrix[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96FDC513D5551FEB50B955E542AD3A9ACD37F361$nome=[COLOR yellow]BLURAY ULTRA HD 4K[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/matrix-4k-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/matrix-4k-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -213,7 +213,7 @@
     
   
 <item>
-<title>[B][COLOR white]Júnior[COLOR yellow][/B]</title>
+<title>[B]Júnior[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50b3c93cd6f3700c2bcc3b1d24994531642713c0$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/junior-download-torrent-1994-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/junior-download-torrent-1994-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -221,7 +221,7 @@
 </item>
     
 <item>
-<title>[B][COLOR white]Massacre no Bairro Japonês[COLOR yellow][/B]</title>
+<title>[B]Massacre no Bairro Japonês[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:219700db755043371129ddeb7762b062b7fbd4cd$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/massacre-no-bairro-japones-showdown-in-little-tokyo-download-torrent-1991-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/massacre-no-bairro-japones-showdown-in-little-tokyo-download-torrent-1991-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -230,7 +230,7 @@
     
   
 <item>
-<title>[B][COLOR white]Mestres do Universo[COLOR yellow][/B]</title>
+<title>[B]Mestres do Universo[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b6cd8aefba1a5c3199a086bffbb2117a3915550$nome=[COLOR yellow]BLURAY 720P[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/mestres-do-universo-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/mestres-do-universo-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -238,7 +238,7 @@
 </item>
     
 <item>
-<title>[B][COLOR white]Loucademia de Polícia - Coleção[COLOR yellow][/B]</title>
+<title>[B]Loucademia de Polícia - Coleção[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B504EBDDCFEBD6F9352E0F934084B837A963F784$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/loucademia-de-policia-colecao-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/loucademia-de-policia-colecao-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -247,7 +247,7 @@
     
   
 <item>
-<title>[B][COLOR white]Geração X[COLOR yellow][/B]</title>
+<title>[B]Geração X[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F2163B0964008A113AAA2BAA2EFDD080A3C2518A$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/geracao-x-download-torrent-1996-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/geracao-x-download-torrent-1996-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -255,7 +255,7 @@
 </item>
     
 <item>
-<title>[B][COLOR white]Mad Max - Trilogia[COLOR yellow][/B]</title>
+<title>[B]Mad Max - Trilogia[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E00C290E19D8DEEDA5F5C4C97B5BA44AD180340F$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/mad-max-trilogia-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/mad-max-trilogia-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -264,7 +264,7 @@
     
   
 <item>
-<title>[B][COLOR white]Convenção das Bruxas[COLOR yellow][/B]</title>
+<title>[B]Convenção das Bruxas[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CC67BD76F98905D68BFE3371FFF821093FF63AFF$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/capas/convencao-das-bruxas-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/capas/convencao-das-bruxas-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -272,7 +272,7 @@
 </item>
     
 <item>
-<title>[B][COLOR white]Férias Frustradas de Natal [COLOR yellow][/B]</title>
+<title>[B]Férias Frustradas de Natal [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E7A962B0DC38A954AABBECC18F0C5AE6E413CE10$nome=[COLOR yellow]BLURAY 720P[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7834e35bccb8b1de158d406a2b4273bd4439229b$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/ferias-frustradas-de-natal-download-torrent-1989-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
@@ -282,7 +282,7 @@
     
   
 <item>
-<title>[B][COLOR white]Sexta-Feira 13 - O Capítulo Final[COLOR yellow][/B]</title>
+<title>[B]Sexta-Feira 13 - O Capítulo Final[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DAB9C6E4CDB494DAEC9086E1BE7F44AA66F5864A$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/sexta-feira-13-o-capitulo-final-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/sexta-feira-13-o-capitulo-final-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -290,7 +290,7 @@
 </item>
     
 <item>
-<title>[B][COLOR white]Um Policial Acima da Lei[COLOR yellow][/B]</title>
+<title>[BUm Policial Acima da Lei[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1D14AD540A4A52C994CBAB21E2BB4F5EA87380B1$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/um-policial-acima-da-lei-cop-download-torrent-1988-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/um-policial-acima-da-lei-cop-download-torrent-1988-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -299,7 +299,7 @@
     
   
 <item>
-<title>[B][COLOR white]Piranhas 2 - Assassinas Voadoras[COLOR yellow][/B]</title>
+<title>[B]Piranhas 2 - Assassinas Voadoras[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd6495d231dcbfa0d2b7b2db1f978870ae22cb11$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/piranhas-2-assassinas-voadoras-download-torrent-1981-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/piranhas-2-assassinas-voadoras-download-torrent-1981-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -307,7 +307,7 @@
 </item>
     
 <item>
-<title>[B][COLOR white]Jogo Perverso [COLOR yellow][/B]</title>
+<title>[B]Jogo Perverso[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D7F491AF7E467CC55B0E310CC6BF28B7A4DB45D8$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/jogo-perverso-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/jogo-perverso-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -316,7 +316,7 @@
     
   
 <item>
-<title>[B][COLOR white]Esqueceram de Mim[COLOR yellow][/B]</title>
+<title>[B]Esqueceram de Mim[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1AE91178F7E90FCBC8744FEE7CD53B7640DE85FF$nome=[COLOR yellow]BLURAY 720P[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E65EE5712C6045D794A19C10682D1CB3F51F6C47$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/esqueceram-de-mim-home-alone-download-torrent-1990-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
@@ -325,7 +325,7 @@
 </item>
     
 <item>
-<title>[B][COLOR white]O Quinto Elemento[COLOR yellow][/B]</title>
+<title>[B]O Quinto Elemento[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec88604b859b464a7f2febefdce48a421e1c33e1$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/o-quinto-elemento-imax-open-matte-download-torrent-1997-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/o-quinto-elemento-imax-open-matte-download-torrent-1997-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -334,7 +334,7 @@
     
   
 <item>
-<title>[B][COLOR white]Procura-se Rapaz Virgem[COLOR yellow][/B]</title>
+<title>[B]Procura-se Rapaz Virgem[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F22B8C1C207F4D782D63D0D093086D9D2AE5F35C$nome=[COLOR yellow]BLURAY 720P[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FA5277E1DD0BE2275F49FEDC798876067D5E40C9$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/procura-se-rapaz-virgem-once-bitten-download-torrent-1985-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
@@ -342,7 +342,7 @@
 <info>Sinopse:[COLOR yellow][B]Uma vampira com 400 anos, a Condessa (Lauren Hutton), está tendo um problema: para ter uma aparência jovem e bela ela precisa se alimentar três vezes com o sangue de um virgem antes do Halloween. Está cada vez mais difícil achar rapazes virgens em Los Angeles, mesmo com a ajuda do vampiro Sebastian (Cleavon Little), seu mordomo e motorista, e outros vampiros menos importantes. Paralelamente Mark Kendall (Jim Carrey), que tem 21 anos mas ainda é virgem, anseia em transar com sua namorada, Robin Pierce (Karen Kopins). Será a primeira vez para ambos, mas ela não pretende fazer amor dentro de um carro e como o caminhão de sorvete de Mark não é o que ela deseja ela pede para o namorado esperar um pouco. Ele então vai para um casa noturna com dois amigos, onde conhece a Condessa e logo vai para a casa dela. Quase ao amanhecer ele vai embora e não se lembra de quase nada, mas começa a comer carne crua e dormir dentro de um baú. Para piorar Robin descobre que ele esteve com outra mulher e termina a relação, mas a Condessa ainda precisa dele. [COLOR white][B] Gênero:[COLOR lime]Clássico / Comédia / Drama / Fantasia / Terror[/COLOR][/B]</info></item> </info>
 </item>
 <item>
-<title>[B][COLOR white]Top Gang 2[COLOR yellow][/B]</title>
+<title>[B]Top Gang 2[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b554cbb5d95a99f544d870b7c7db2f04c85f306$nome=[COLOR yellow]BLURAY 720P[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/top-gang-2-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/top-gang-2-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -351,14 +351,14 @@
     
   
 <item>
-<title>[B][COLOR white]O Ataque dos Vermes Malditos 2[COLOR yellow][/B]</title>
+<title>[B]O Ataque dos Vermes Malditos 2[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5c2a03698c4ef2483667a2abf234426ef213164$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/o-ataque-dos-vermes-malditos-2-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/o-ataque-dos-vermes-malditos-2-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
 <info>Sinopse:[COLOR yellow][B]Os vermes reaparecem num campo petrolífero do México. Mas o sobrevivente do primeiro ataque Earl Bassett, não está disposto a virar comida de larvas e junta-se a uma sexy cientista e um estranho rapaz para deter o avanço dos monstros. [COLOR white][B] Gênero:[COLOR lime]Ação / Comédia / Terror / Ficção / Suspense / Clássico[/COLOR][/B]</info></item> </info>
 </item>
 <item>
-<title>[B][COLOR white]Operação Kickbox 2[COLOR yellow][/B]</title>
+<title>[B]Operação Kickbox 2[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e29c1f70c31c7946d35d20b143f1f5a9433c7d1$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/operacao-kickbox-2-vencer-ou-vencer-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/operacao-kickbox-2-vencer-ou-vencer-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -367,7 +367,7 @@
     
   
 <item>
-<title>[B][COLOR white]MIB - Trilogia [COLOR yellow][/B]</title>
+<title>[B]MIB - Trilogia [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CA90C5A4CFAED0C5A0A6E95BEE89A24B76C78D00$nome=[COLOR yellow]BLURAY 720P[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F9A397FFB5657F6EC61B13625BE435293B0DCA0F$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/mib-trilogia-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
@@ -375,14 +375,14 @@
 <info>Sinopse:[COLOR yellow][B]O agente K é um dos fundadores da organização secreta MIB: Homens de Preto, criada pelo governo para investigar as atividades alienígenas na Terra. Recém-contratado para trabalhar na tal entidade, o ex-policial J se une a K para desvendar os mistérios de um possível ataque extraterrestre. [COLOR white][B] Gênero:[COLOR lime]Ação / Aventura / Comédia / Ficção / Clássico[/COLOR][/B]</info></item> </info>
 </item>      
 <item>
-<title>[B][COLOR white]Ace Ventura - Trilogia[COLOR yellow][/B]</title>
+<title>[B]Ace Ventura - Trilogia[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f93ab73bd8b4f1b9cbcc22cad175973c3c2da818$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/ace-ventura-trilogia-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/ace-ventura-trilogia-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
 <info>Sinopse:[COLOR yellow][B]Ele é o melhor que existe! De fato, ele é o único que existe! Ace Ventura (Jim Carrey) assume o caso para encontrar a mascote desaparecida do time dos Miami Dolphins e também seu principal jogador, Dan Marino. Ele fica frente a frente com um tubarão faminto, arruma encrenca com os jogadores do Miami Dolphins e encanta e espanca as damas. Ainda que esteja disfarçado, dissimulado e desacreditado, ele sempre prende o culpado ou culpada? [COLOR white][B] Gênero:[COLOR lime]Comédia / Clássico[/COLOR][/B]</info></item> </info>
 </item>
 <item>
-<title>[B][COLOR white]Alien - O Oitavo Passageiro[COLOR yellow][/B]</title>
+<title>[B]Alien - O Oitavo Passageiro[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8175ABC74A5FD90738327CA920EDFBCCDBC1769F$nome=[COLOR yellow]BLURAY ULTRA HD 4K[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/alien-o-oitavo-passageiro-versao-do-cinema-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/alien-o-oitavo-passageiro-versao-do-cinema-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -390,77 +390,77 @@
 </item>
       
 <item>
-<title>[B][COLOR white]Operação Kickbox 3 - Sem Retorno[COLOR yellow][/B]</title>
+<title>[B]Operação Kickbox 3 - Sem Retorno[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:329991bab54af40ff849ded4f94b2091c5651e93$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/operacao-kickbox-3-sem-retorno-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/operacao-kickbox-3-sem-retorno-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
 <info>Sinopse:[COLOR yellow][B]Em viagem pelo país, o veterano mestre das artes marciais Tommy Lee para numa pequena cidade para visitar a irmã. Um pastor racista está incitando o ódio no local. Quando uma professora que combate sua mensagem é atacada, Tommy resolve ajudá-la. [COLOR white][B] Gênero:[COLOR lime]Ação / Clássico / Drama / Policial / Suspense[/COLOR][/B]</info></item> </info>
 </item>      
 <item>
-<title>[B][COLOR white]A Sombra e a Escuridão[COLOR yellow][/B]</title>
+<title>[B]A Sombra e a Escuridão[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27297e35ed4e2b4322ef85f8422b798f8298659b$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/a-sombra-e-a-escuridao-the-ghost-and-the-darkness-download-torrent-1996-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/a-sombra-e-a-escuridao-the-ghost-and-the-darkness-download-torrent-1996-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
 <info>Sinopse:[COLOR yellow][B]No final do século XIX, um engenheiro (Val Kilmer) vai para a África construir uma ponte, mas acaba se deparando com dois leões assassinos que aterrorizam os operários, pois várias vítimas são feitas e mesmo com a chegada de um experiente caçador (Michael Douglas), as mortes continuam. [COLOR white][B] Gênero:[COLOR lime]Aventura / Clássico / Drama / Suspense[/COLOR][/B]</info></item> </info>
 </item>
 <item>
-<title>[B][COLOR white]Operação Kickbox [COLOR yellow][/B]</title>
+<title>[B]Operação Kickbox[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:493ab25509102721d31448c3fa21e31aa5a69fd7$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/operacao-kickbox-best-of-the-best-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/operacao-kickbox-best-of-the-best-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
 <info>Sinopse:[COLOR yellow][B]O time americano de kickbox se prepara para enfrentar seus rivais coreanos. Durante o exaustivo treinamento, eles se unem cada vez mais, mas também enfrentam dúvidas pessoais sobre a competição. [COLOR white][B] Gênero:[COLOR lime]Ação / Clássico / Drama / Esporte[/COLOR][/B]</info></item> </info>
 </item>
 <item>
-<title>[B][COLOR white]Máquina Mortífera 4[COLOR yellow][/B]</title>
+<title>[B]Máquina Mortífera 4[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a68b4ff0df48fd249dd9ba99265f3906c1e4c358$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/maquina-mortifera-4-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/maquina-mortifera-4-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
 <info>Sinopse:[COLOR yellow][B]Martin Riggs e Roger Murtaugh encaram agora uma perigosa gangue profissional chinesa, no último filme da série Máquina Mortífera. Eles contarão com a ajuda das informações de Leo Getz e com o suporte do policial novato Lee Butters para tentar localizar e exterminar os membros da gangue. A polícia de Los Angeles investiga uma quadrilha que promove a entrada ilegal de chineses nos Estados Unidos, os quais são vendidos como escravos. Por trás desta operação está "tio Benny", o chefão de uma grande quadrilha em Chinatown. Bandidos e assassinos de plantão segurem-se porque os detetives Riggs (Mel Gibson) e murthaugh (Danny Glover) estão de volta? s ruas! Eles vão sacudir a cidade para desvendar uma onda de assassinatos. Mas para isso terão de enfrentar o jogo sujo da máfia chinesa, liderada pelo mafioso Wah Sing Ku (Jet Li). Os dois policiais contam com a ajuda do falante Leo Getz (Joe Pesci) e da detetive Lorna Cole (Renne Russo) e com o novato Lee Butters (Chris Rock). Com muita ação e humor, "Máquina Mortífera 4" é a continuação perfeita para uma série de sucessos que conquistou o público de todo o mundo. [COLOR white][B] Gênero:[COLOR lime]Ação / Clássico / Policial / Suspense[/COLOR][/B]</info></item> </info>
 </item>      
 <item>
-<title>[B][COLOR white]Tubarão 4 - A Vingança[COLOR yellow][/B]</title>
+<title>[B]Tubarão 4 - A Vingança[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:da96367c3f640224cf6645498ff5d30670e7e08e$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/tubarao-4-a-vinganca-jaws-the-revenge-download-torrent-1987-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/tubarao-4-a-vinganca-jaws-the-revenge-download-torrent-1987-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
 <info>Sinopse:[COLOR yellow][B]Ellen, viúva do chefe policial Martin Brody (papel que pertenceu a Roy Scheider), já está farta de viver sob constante tensão no balneário de Amity. Pensando em descansar e passar o natal com os filhos, noras e netos, arruma as malas e vai para o Caribe. Mas acredite: o grande e temível tubarão branco também está lá, mas não é de férias. Ele está lá em busca de vingança!Considerado por vários críticos de cinema com um dos piores filmes de todos os tempos. [COLOR white][B] Gênero:[COLOR lime]Aventura / Clássico / Suspense / Terror[/COLOR][/B]</info></item> </info>
 </item>
 <item>
-<title>[B][COLOR white]O Último Tubarão[COLOR yellow][/B]</title>
+<title>[B]O Último Tubarão[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7c384b9068316a0952bb91d14e9377e0215fbd6$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/o-ultimo-tubarao-download-torrent-1981-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/o-ultimo-tubarao-download-torrent-1981-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
 <info>Sinopse:[COLOR yellow][B]O Último Tubarão" extrapola qualquer falsa sutileza e copia, praticamente na íntegra, o enredo de "Tubarão", o sucesso mundial de Steven Spielberg. Como o nível de picaretagem estava mais alto que o de costume (tanto que no Brasil o filme saiu como um produto da franquia "Tubarão") - e esse filme estava dando mais lucro que "Tubarão 2" -, Spielberg e cia. decidiram processar os italianos por plágio. Como o roteiro é praticamente igual ao da obra de Spielberg, não vamos perder tempo esmiuçando a trama e similares, vamos pra parte que interessa: todo o sangue que a versão americana escondia, esse aqui mostra; se Spielberg (espertamente) quase não mostra o peixão pra criar suspense, aqui - mesmo não tendo 10% dos recursos - Castellari mostra o tubarão e todos seus dentes (de plástico) à cada ataque, mesmo que não tenha efeitos eficientes o suficiente pra isso (mais disso adiante). [COLOR white][B] Gênero:[COLOR lime]Clássico / Terror[/COLOR][/B]</info></item> </info>
 </item>
 <item>
-<title>[B][COLOR white]Tubarão[COLOR yellow][/B]</title>
+<title>[B]Tubarão[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bbe71e956c11a342fd430cd49eb82008086ae636$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/tubarao-jaws-download-torrent-1975-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/tubarao-jaws-download-torrent-1975-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
 <info>Sinopse:[COLOR yellow][B]Um terrível ataque a banhistas é o sinal de que a praia da pequena cidade de Amity, virou refeitório de um gigantesco tubarão branco, que começa a se alimentar dos turistas. Embora o prefeito queira esconder os fatos da mídia, o xerife local pede ajuda a um ictiologista e a um pescador veterano para caçar o animal, mas a missão vai ser mais complicada do que eles imaginavam. [COLOR white][B] Gênero:[COLOR lime]Aventura / Clássico / Suspense[/COLOR][/B]</info></item> </info>
 </item>
 <item>
-<title>[B][COLOR white]Piratas das Galáxias[COLOR yellow][/B]</title>
+<title>[B]Piratas das Galáxias[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40e6f9d7ed598eedb65982db2a2e9119e9b0288f$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/piratas-das-galaxias-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/piratas-das-galaxias-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
 <info>Sinopse:[COLOR yellow][B]Em um mundo sem água, um tirano controla as reservas do planeta, enviando para o espaço imensos blocos congelados. Para resgatar a única esperança de vida, habitantes do planeta buscam a ajuda de piratas espaciais. [COLOR white][B] Gênero:[COLOR lime]Ação / Aventura / Clássico / Comédia / Ficção / Romance[/COLOR][/B]</info></item> </info>
 </item>
 <item>
-<title>[B][COLOR white]Carrie, a Estranha[COLOR yellow][/B]</title>
+<title>[B]Carrie, a Estranha[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2caf25c4a9bc519a2490774bede221fba36a2906$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/carrie-a-estranha-classico-download-torrent-1976-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/carrie-a-estranha-classico-download-torrent-1976-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
 <info>Sinopse:[COLOR yellow][B]A quieta e sensível adolescente Carrie White (Sissy Spacek) enfrenta insultos dos colegas na escola e abuso em casa de sua mãe (Piper Laurie), uma fanática religiosa. Quando estranhos acontecimentos começam a acontecer em torno de Carrie, ela começa a suspeitar que tem poderes sobrenaturais. Convidada para o baile da escola pelo autoritário Tommy Ross (William Katt), Carrie tenta relaxar, mas as coisas tomam um rumo sombrio e violento. [COLOR white][B] Gênero:[COLOR lime]Clássico / Terror[/COLOR][/B]</info></item> </info>
 </item>
 <item>
-<title>[B][COLOR white]Replicante [COLOR yellow][/B]</title>
+<title>[B]Replicante[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DCDB99DC9408537E028E2511D6C0BBE00065496B$nome=[COLOR yellow]|HD|1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/replicante-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/replicante-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
 <info>Sinopse:[COLOR yellow][B]A cidade de Seattle vem sendo aterrorizada por cruéis assassinatos promovidos por Garrote (Jean-Claude Van Damme), que mata jovens mães e depois as incendeia em frente aos seus filhos. Ele é sempre perseguido pelo policial Jake (Michael Rooker) que, apesar de todo seu empenho, não consegue capturá-lo. Mas a chance de enfim prender Garrote chega a Jake quando ele é convidado a participar de um projeto secreto, em que um replicante chamado Número Um (Jean-Claude Van Damme) é criado tendo por base o DNA do próprio Garrote. Número Um, apesar de ter o corpo de um adulto, possui a mente de uma criança que precisa ser educada por Jake para ajudar a enfim capturar Garrote. Porém, como possui os mesmos genes que os seus, Garrote tenta atrair Número Um para aquele que promete ser o seu maior feito. [COLOR white][B] Gênero:[COLOR lime]Ação / Suspense[/COLOR][/B]</info></item> </info>
 </item>
 <item>
-<title>[B][COLOR white]Rocky V[COLOR yellow][/B]</title>
+<title>[B]Rocky V[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b45c9f4ed76b6987f048ba8eac56a227ead64b69$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/rocky-v-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/rocky-v-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -468,7 +468,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]Rocky IV[COLOR yellow][/B]</title>
+<title>[B]Rocky IV[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0b39ba16975652a402b71c3a3327839e15901d6$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/rocky-iv-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/rocky-iv-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -476,7 +476,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]Missão - Quadrilogia[COLOR yellow][/B]</title>
+<title>[B]Missão - Quadrilogia[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:182301e9ef59e96a84a32ad67fee3394870543b6$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/missao-quadrilogia-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/missao-quadrilogia-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -484,7 +484,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]Hannibal - Quadrilogia [COLOR yellow][/B]</title>
+<title>[B]Hannibal - Quadrilogia [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:706A3475802E093DD385203FDD074F6F770A1DB1$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/hannibal-quadrilogia-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/hannibal-quadrilogia-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -492,7 +492,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]O Cemitério Maldito II[COLOR yellow][/B]</title>
+<title>[B]O Cemitério Maldito II[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D18C7CE50B54A45B59662E0019A0A66D03D7E83D$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/o-cemiterio-maldito-ii-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/o-cemiterio-maldito-ii-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -500,7 +500,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]O Predador - Trilogia [COLOR yellow][/B]</title>
+<title>[B]O Predador - Trilogia [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7867331511D2DE3332993E218967E8942A698AE0$nome=[COLOR yellow]BLURAY 1080P[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D4AA305E364BA951304E6466285BCC89097D44D1$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/o-predador-trilogia-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
@@ -508,7 +508,7 @@
 <info>Sinopse:[COLOR yellow][B]O major Dutch lidera uma equipe de resgate em selva da América Central. Após uma ação bem-sucedida contra um pelotão de guerrilheiros, eles descobrem que a missão era uma farsa e eles foram usados pela CIA. Para piorar, a floresta esconde uma ameaça mortal: um ser de outro planeta, fortemente armado, que sente enorme prazer em matar. [COLOR white][B] Gênero:[COLOR lime]Ação / Aventura / Ficção / Suspense / Clássico[/COLOR][/B]</info></item> </info>
 </item>  
 <item>
-<title>[B][COLOR white]Debi e Lóide - Duologia [COLOR yellow][/B]</title>
+<title>[B]Debi e Lóide - Duologia [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9F7674373D37DA3874AA1B53EC70014D21403D1E$nome=[COLOR yellow]MKV 720P[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48920BF0245273A72C9E764E94E9CC2016E9E0CC$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/debi-e-loide-duologia-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
@@ -517,7 +517,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]Policiais em Apuros[COLOR yellow][/B]</title>
+<title>[B]Policiais em Apuros[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5D14B6E63BE318D749DE00C07D08DC45577E00C9$nome=[COLOR yellow]MKV 720P[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:011F1291854EC86AAC2CCA8E164AB89CC81F7513$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/policiais-em-apuros-download-torrent-1988-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
@@ -525,14 +525,14 @@
 <info>Sinopse:[COLOR yellow][B]Detetive Bigelow e Detetive Mortis investigam uma misteriosa quadrilha de assaltantes que resiste a tiros e ferimentos - até descobrir que são bandidos-zumbis, ressuscitados por um vilão utilizando uma máquina criada para esta finalidade. Quando um dos policiais acaba morrendo, seu parceiro resolve ressuscitá-lo. Surge assim o primeiro policial morto-vivo da história e o único capaz de enfrentar a ameaça dos criminosos-zumbis. [COLOR white][B] Gênero:[COLOR lime]AAção / Clássico / Comédia / Ficção / Suspense / Terror[/COLOR][/B]</info></item> </info>
 </item>
 <item>
-<title>[B][COLOR white]Caçadores de Emoção[COLOR yellow][/B]</title>
+<title>[B]Caçadores de Emoção[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08ce437fdc2082b1ae7c35ea810988b32b05c29e$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/cacadores-de-emocao-point-break-download-torrent-1991-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/cacadores-de-emocao-point-break-download-torrent-1991-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
 <info>Sinopse:[COLOR yellow][B]Em uma cidade costeira da Califórnia atua uma gangue de ladrões de banco que se autodenomina "Os Ex-Presidentes", pois cometem seus assaltos usando as máscaras de Reagan, Carter, Nixon e Johnson. O F.B.I. acredita que os membros da quadrilha possam ser surfistas e manda para lá um jovem agente disfarçado, Johnny Utah (Keanu Reeves), que tem como missão se infiltrar entre os surfistas e obter informações. Para isto ele precisa aprender a surfar, algo que seu chefe não gosta muito. Com o auxílio de Angelo Pappas (Gary Busey), outro agente, Johnny chega a uma comunidade de surfistas onde os dois se infiltram, desconfiados que o autor dos assaltos está ali. Lá ele conhece Bodhi (Patrick Swayze), um homem místico e muito inteligente, que começa a mostrar a Johnny uma maneira diferente de ver o mundo. [COLOR white][B] Gênero:[COLOR lime]Ação / Clássico / Policial / Suspense[/COLOR][/B]</info></item> </info>
 </item>  
 <item>
-<title>[B][COLOR white]Independence Day[COLOR yellow][/B]</title>
+<title>[B]Independence Day[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40F7F16F7CD1810678C5830DB48BA2FA50833DCC$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D238D165D5835DA571D36D2422E85C22A6F22A61$nome=[COLOR yellow]BLURAY 1080P[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/independence-day-versao-estendida-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
@@ -541,14 +541,14 @@
 </item>
 
 <item>
-<title>[B][COLOR white]De Volta Para o Futuro - Coleção [COLOR yellow][/B]</title>
+<title>[B]De Volta Para o Futuro - Coleção [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4E305C4576C9B854D46CC74966ABAC9FA8EF2F99$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/de-volta-para-o-futuro-colecao-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/de-volta-para-o-futuro-colecao-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
 <info>Sinopse:[COLOR yellow][B]Marty McFly é um adolescente típico americano dos anos 80. Acidentalmente ele viaja de volta no tempo para 1955 em uma máquina do tempo inventada pelo cientista maluco Dr. Brown. Durante sua incrível viagem ao passado, Marty tem como missão fazer com que seus pais ainda adolescentes se conheçam e se apaixonem. Só assim ele conseguirá ter uma chance de voltar ao futuro. [COLOR white][B] Gênero:[COLOR lime]Aventura / Comédia / Ficção / Clássico[/COLOR][/B]</info></item> </info>
 </item> 
 <item>
-<title>[B][COLOR white]O Auto da Compadecida [COLOR yellow][/B]</title>
+<title>[B]O Auto da Compadecida[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d64dea631759215465368633b0e4a1c91c845530$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/o-auto-da-compadecida-versao-estendida-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/o-auto-da-compadecida-versao-estendida-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -556,14 +556,14 @@
 </item>
 
 <item>
-<title>[B][COLOR white]Máquina Quase Mortífera [COLOR yellow][/B]</title>
+<title>[B]Máquina Quase Mortífera[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:005dac04bc74d3a0fb5ac5cc9bad6ecc621588d7$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/maquina-quase-mortifera-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/maquina-quase-mortifera-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
 <info>Sinopse:[COLOR yellow][B]Eles são uma dupla de políciais que não combina em nada. Mas vão ter que se unir de um jeito ou de outro para resolver um caso muito arriscado e tirar uma gangue de criminosos das ruas da cidade. Parece " Máquina Mortífera"? Na verdade, é "Máquina Mortífera"! Depois do assassinato de sua parceira, o sargento Wes Luger (Samuel L. Jackson) acaba fazendo uma explosiva parceria com o policial esquentadinho Jack Colt (Emilio Estevez) para impedir que um grupo de bandidos liderado pelo General Curtis Mortars (William Shatner) consiga a tão sonhada fórmula que transforma cocaína em...biscoitos! [COLOR white][B] Gênero:[COLOR lime]Ação / Comédia / Policial / Clássico[/COLOR][/B]</info></item> </info>
 </item>
 <item>
-<title>[B][COLOR white]Tubarão 3[COLOR yellow][/B]</title>
+<title>[B]Tubarão 3[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EC57D52C042FCC4951FDB9CD58B1C3631F1EA546$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/tubarao-3-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/tubarao-3-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -571,7 +571,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]Um Herói de Brinquedo[COLOR yellow][/B]</title>
+<title>[B]Um Herói de Brinquedo[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3926B7A0699ECCA474DDDC4B90C9812114E203E4$nome=[COLOR yellow]BLURAY 720P[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C8FC12387C0DDACF0AEA8486F8DB96CD24248CEE$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/um-heroi-de-brinquedo-versao-estendida-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
@@ -579,14 +579,14 @@
 <info>Sinopse:[COLOR yellow][B]Um homem de negócios (Arnold Schwarzenegger) chega atrasado na aula de caratê do seu filho, que recebeu a faixa azul. Para tentar compensar, ele promete ao menino que lhe dará qualquer coisa que ele peça no Natal. O garoto então pede o "Turbo Man", o brinquedo sensação do momento e sonho de todas as crianças. Acontece que já é véspera de Natal e o brinquedo não existe em lugar nenhum assim, com todos os estoques já estando esgotados. Ele então se propõe a cumprir a promessa, não importando o quanto isto lhe custe, mas, além de se meter em uma série de complicações, ainda tem de ser mais esperto que um carteiro, que tem o mesmo objetivo dele e é igualmente obstinado no seu intento. [COLOR white][B] Gênero:[COLOR lime]Aventura / Comédia / Família / Clássico[/COLOR][/B]</info></item> </info>
 </item> 
 <item>
-<title>[B][COLOR white]Gladiador [COLOR yellow][/B]</title>
+<title>[B]Gladiador[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04d9189955d4b532c28170a557caf5a695df601e$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/gladiador-versao-estendida-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/gladiador-versao-estendida-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
 <info>Sinopse:[COLOR yellow][B]Nos dias finais do reinado de Marcus Aurelius (Richard Harris), o imperador desperta a ira de seu filho Commodus (Joaquin Phoenix) ao tornar pública sua predileção em deixar o trono para Maximus (Russell Crowe), o comandante do exército romano. Sedento pelo poder, Commodus mata seu pai, assume a coroa e ordena a morte de Maximus, que consegue fugir antes de ser pego e passa a se esconder sob a identidade de um escravo e gladiador do Império Romano. [COLOR white][B] Gênero:[COLOR lime]Ação / Aventura / Drama / Clássico[/COLOR][/B]</info></item> </info>
 </item>
 <item>
-<title>[B][COLOR white]Rambo II - A Missão [COLOR yellow][/B]</title>
+<title>[B]Rambo II - A Missão[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3da5cb8b56643b559bbf6863b183dcb6944e7b11$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/rambo-ii-a-missao-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/rambo-ii-a-missao-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -594,7 +594,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]Coração de Cavaleiro[COLOR yellow][/B]</title>
+<title>[B]Coração de Cavaleiro[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44189aba57a1da9b0602551bdf33da71d6835d55$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/coracao-de-cavaleiro-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/coracao-de-cavaleiro-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -602,7 +602,7 @@
 </item>                                                 
                  
 <item>
-<title>[B][COLOR white]Pânico no Shopping[COLOR yellow][/B]</title>
+<title>[B]Pânico no Shopping[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2393D4DA4E90C8335E2A9C65CDCD48AB56E6E301$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/capas/panico-no-shopping-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/capas/panico-no-shopping-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
