@@ -617,7 +617,14 @@
 <info>Sinopse:[COLOR yellow][B]Estão reunidos grandes momentos do grupo em quadros exibidos em 15 anos de programa, entre 1977 e 1992. São mais de 11 horas de conteúdo, incluindo uma entrevista feita com Renato Aragão especialmente para o DVD, pequenos depoimentos de Mussum, Dedé e Zacarias e algumas paródias musicais. [COLOR white][B] Gênero:[COLOR lime]Comédia / Clássico / Nacional[/COLOR][/B]</info></item> </info>
 </item>                                          
                                                            
-                                                                  
+<item>
+<title>[B]Rambo - 1, 2, 3 e 4 Coleção[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:$nome=btih:80F5A6C9E7A150C70E8B4DCA84A7F255DEA4DB3F[COLOR yellow] MKV 720P[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:496e6a2ad5980c30559f46907b16ac38b08bea2c$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
+<thumbnail>https://4.bp.blogspot.com/-NdrGXovBtcg/W5MqsXmX-HI/AAAAAAAAQvA/n1fMi2XYYRQDzsk0fLx6rMjXqNXxwjJsgCLcBGAs/s1600/Rambo%2Bcole%25C3%25A7%25C3%25A3o%2Bcompleta%2Btodos%2Bos%2Bfilmes%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpeg</thumbnail>
+<fanart>https://4.bp.blogspot.com/-NdrGXovBtcg/W5MqsXmX-HI/AAAAAAAAQvA/n1fMi2XYYRQDzsk0fLx6rMjXqNXxwjJsgCLcBGAs/s1600/Rambo%2Bcole%25C3%25A7%25C3%25A3o%2Bcompleta%2Btodos%2Bos%2Bfilmes%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpeg</fanart>
+<info>Sinopse:[COLOR yellow][B]Coleção completa com todos os filmes da franquia Rambo (First Blood). Todos os filmes do Rambo dublados e em dual áudio com qualidade de blu-ray 720p HD. Rambo 1 - Programado Para Matar, Rambo 2 - A Missão, Rambo 3 e Rambo 4 o último filme da franquia. John Rambo, é um veterano de guerra do Vietnã, preso injustamente pelo xerife Will Teasle. Após muita tortura, consegue fugir e começa uma violenta vingança contra aqueles que o atormentaram. [COLOR white][B] Gênero:[COLOR lime]Ação / Clássico / Guerra / Suspense[/COLOR][/B]</info></item> </info>
+</item>                                                                          
                                                                
                                                               
                                                         
