@@ -2,7 +2,7 @@
 
  
 <item>
-<title>[B][COLOR white]Advogado do Diabo[COLOR yellow][/B]</title>
+<title>[B]Advogado do Diabo[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QPRNRYSVQ2OOPIIGBLYAJ6G2GHCQLM6T$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
 <thumbnail>https://abutretorrents.com/imagens/advogado-do-diabo-the-devils-advocate-download-torrent-1997-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://abutretorrents.com/imagens/advogado-do-diabo-the-devils-advocate-download-torrent-1997-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
