@@ -609,7 +609,13 @@
 <info>Sinopse:[COLOR yellow][B]Uma chuva torrencial causa a ruptura de uma represa. A água invade uma área da cidade, onde esta localizado o shopping. Ali, seis pessoas vão lutar para sobreviver a fúria da água. [COLOR white][B] Gênero:[COLOR lime]Ação / Suspense / Clássico[/COLOR][/B]</info></item> </info>
 </item>
 
-                                    
+<item>
+<title>[B]Os Trapalhões - Coleção[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35982634aa20959fe9382427735b51c196e9277b$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
+<thumbnail>https://abutretorrents.com/imagens/os-trapalhoes-colecao-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://abutretorrents.com/imagens/os-trapalhoes-colecao-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Sinopse:[COLOR yellow][B]Estão reunidos grandes momentos do grupo em quadros exibidos em 15 anos de programa, entre 1977 e 1992. São mais de 11 horas de conteúdo, incluindo uma entrevista feita com Renato Aragão especialmente para o DVD, pequenos depoimentos de Mussum, Dedé e Zacarias e algumas paródias musicais. [COLOR white][B] Gênero:[COLOR lime]Comédia / Clássico / Nacional[/COLOR][/B]</info></item> </info>
+</item>                                          
                                                            
                                                                   
                                                                
