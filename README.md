@@ -877,8 +877,8 @@
  </item> 
 <item> 
  <title>[B][COLOR white]Tango & Cash - Os Vingadores-[COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6e275065a950dd65f1f85373a4805aecbf386572$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6e275065a950dd65f1f85373a4805aecbf386572$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
  <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fEeZA2AeBxxZOeEGgRniLdiBkXJ.jpg</thumbnail>
  <genre>[B][COLOR firebrick]Ação</genre>
  <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fEeZA2AeBxxZOeEGgRniLdiBkXJ.jpg</fanart>
