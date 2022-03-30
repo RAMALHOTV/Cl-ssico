@@ -701,8 +701,8 @@
 </item> 
 <item> 
  <title>[B][COLOR white]O Justiceiro - Em Zona de Guerra-[COLOR red]Lançamento[COLOR red](2008) [/COLOR][/B]</title>
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:f3d8898fb4972e52f9c353a6351ccb029cc66c5a$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:f3d8898fb4972e52f9c353a6351ccb029cc66c5a$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3d8898fb4972e52f9c353a6351ccb029cc66c5a$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3d8898fb4972e52f9c353a6351ccb029cc66c5a$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
  <thumbnail>https://abutretorrents.com/capas/o-justiceiro-em-zona-de-guerra-download-torrent-2008-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
  <genre>[B][COLOR firebrick]Ação</genre>
  <fanart>https://abutretorrents.com/capas/o-justiceiro-em-zona-de-guerra-download-torrent-2008-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -710,8 +710,8 @@
  </item> 
 <item> 
  <title>[B][COLOR white]O Justiceiro-[COLOR red]Lançamento[COLOR red](2004) [/COLOR][/B]</title>
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:1b189053e58eca550e73bf36276588379ab1a7d1$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:1b189053e58eca550e73bf36276588379ab1a7d1$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b189053e58eca550e73bf36276588379ab1a7d1$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b189053e58eca550e73bf36276588379ab1a7d1$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
  <thumbnail>https://i.imgur.com/njznDMk.jpg</thumbnail>
  <genre>[B][COLOR firebrick]Ação</genre>
  <fanart>https://i.imgur.com/njznDMk.jpg</fanart>
@@ -719,8 +719,8 @@
  </item> 
  <item> 
  <title>[B][COLOR white]Leão Branco O lutador Sem Lei -[COLOR red]Lançamento[COLOR red](1990) [/COLOR][/B]</title>
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:bb6de084b3a109f8ef3cef5463aff4db9ba77b87$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:29ad6ca45949c3852589ccf03ee8fe4c4e5c52ca$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb6de084b3a109f8ef3cef5463aff4db9ba77b87$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29ad6ca45949c3852589ccf03ee8fe4c4e5c52ca$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
  <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xP8lFtQ97tEqnh8xu4j1FQttYzM.jpg</thumbnail>
  <genre>[B][COLOR firebrick]Ação</genre>
  <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xP8lFtQ97tEqnh8xu4j1FQttYzM.jpg</fanart>
@@ -728,8 +728,8 @@
  </item> 
  <item> 
  <title>[B][COLOR white]O Procurado-[COLOR red]Lançamento[COLOR red](1997) [/COLOR][/B]</title>
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:e7e4026b9c14800b9ce6f7db7d532364360c90c2$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:9D31C028065964A5369C5059692878895FCEAAAA$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e7e4026b9c14800b9ce6f7db7d532364360c90c2$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9D31C028065964A5369C5059692878895FCEAAAA$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
  <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8vKh2AnzJaRM1eALkBKEU97NK1B.jpg</thumbnail>
  <genre>[B][COLOR firebrick]Ação</genre>
  <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8vKh2AnzJaRM1eALkBKEU97NK1B.jpg</fanart>
@@ -737,8 +737,8 @@
  </item> 
  <item> 
  <title>[B][COLOR white]60 Segundos-[COLOR red]Lançamento[COLOR red](2000) [/COLOR][/B]</title>
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:9fe644bd17c247f8506e31ae364757e45e3980c4$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:f1de6eb04c9741f294c3dd7c1d5940dcc0afeddc$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9fe644bd17c247f8506e31ae364757e45e3980c4$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1de6eb04c9741f294c3dd7c1d5940dcc0afeddc$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
  <thumbnail>https://i.imgur.com/v1zkp6J.jpg</thumbnail>
  <genre>[B][COLOR firebrick]Ação</genre>
  <fanart>https://i.imgur.com/v1zkp6J.jpg</fanart>
@@ -746,8 +746,8 @@
  </item> 
  <item> 
  <title>[B][COLOR white]Elektra-[COLOR red]Lançamento[COLOR red](2005) [/COLOR][/B]</title>
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:9bb695bdef72eb49bd6e6e70bf671e0199c76dea$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:9bb695bdef72eb49bd6e6e70bf671e0199c76dea$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9bb695bdef72eb49bd6e6e70bf671e0199c76dea$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9bb695bdef72eb49bd6e6e70bf671e0199c76dea$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
  <thumbnail>https://http2.mlstatic.com/D_NQ_NP_858993-MLB46260161206_062021-O.jpg</thumbnail>
  <genre>[B][COLOR firebrick]Ação</genre>
  <fanart>https://http2.mlstatic.com/D_NQ_NP_858993-MLB46260161206_062021-O.jpg</fanart>
@@ -755,8 +755,8 @@
  </item> 
 <item> 
  <title>[B][COLOR white]Cão De Briga-[COLOR red]Lançamento[COLOR red](2005) [/COLOR][/B]</title>
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:51517d84346ab6e1d24df4468aab762ca74f7869$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:32009552f3e51fa559cafd416c573b014ecb90d9$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51517d84346ab6e1d24df4468aab762ca74f7869$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32009552f3e51fa559cafd416c573b014ecb90d9$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
  <thumbnail>https://i.imgur.com/mXepZiq.jpg</thumbnail>
  <genre>[B][COLOR firebrick]Ação</genre>
  <fanart>https://i.imgur.com/mXepZiq.jpg</fanart>
@@ -764,8 +764,8 @@
  </item> 
 <item> 
  <title>[B][COLOR white]O Alvo-[COLOR red]Lançamento[COLOR red](1993) [/COLOR][/B]</title>
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:96d3c94866d9f3365ab4f8d2722a86a721138d91$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:96d3c94866d9f3365ab4f8d2722a86a721138d91$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96d3c94866d9f3365ab4f8d2722a86a721138d91$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96d3c94866d9f3365ab4f8d2722a86a721138d91$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
  <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/98xtnc5kvvcm39VjPGQuRLOBCyQ.jpg</thumbnail>
  <genre>[B][COLOR firebrick]Ação</genre>
  <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/98xtnc5kvvcm39VjPGQuRLOBCyQ.jpg</fanart>
@@ -773,8 +773,8 @@
  </item> 
 <item> 
  <title>[B][COLOR white]O Destruidor-[COLOR red]Lançamento[COLOR red](1994) [/COLOR][/B]</title>
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:7F90222F7B06E05D12AB079A2534C533E9B3E510$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:7F90222F7B06E05D12AB079A2534C533E9B3E510$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7F90222F7B06E05D12AB079A2534C533E9B3E510$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7F90222F7B06E05D12AB079A2534C533E9B3E510$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
  <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cp2OeUlOl1sPddZ0ECKHJcXScu5.jpg</thumbnail>
  <genre>[B][COLOR firebrick]Ação</genre>
  <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cp2OeUlOl1sPddZ0ECKHJcXScu5.jpg</fanart>
@@ -782,8 +782,8 @@
  </item> 
  <item> 
  <title>[B][COLOR white]Velocidade Maxima-[COLOR red]Lançamento[COLOR red](1994) [/COLOR][/B]</title>
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:d8d660b15c34eba110ca9844f1a69925eb56fb1a$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:d8d660b15c34eba110ca9844f1a69925eb56fb1a$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8d660b15c34eba110ca9844f1a69925eb56fb1a$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8d660b15c34eba110ca9844f1a69925eb56fb1a$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
  <thumbnail>https://i.imgur.com/Ctr0uVz.jpg</thumbnail>
  <genre>[B][COLOR firebrick]Ação</genre>
  <fanart>https://i.imgur.com/Ctr0uVz.jpg</fanart>
@@ -791,8 +791,8 @@
  </item> 
  <item> 
  <title>[B][COLOR white]Velocidade Maxima 2-[COLOR red]Lançamento[COLOR red](1997) [/COLOR][/B]</title>
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:ab36dd5ebb1b70d56e96ab294965734b440f8aac$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:ab36dd5ebb1b70d56e96ab294965734b440f8aac$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab36dd5ebb1b70d56e96ab294965734b440f8aac$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab36dd5ebb1b70d56e96ab294965734b440f8aac$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
  <thumbnail>https://abutretorrents.com/capas/velocidade-maxima-2-download-torrent-1997-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
  <genre>[B][COLOR firebrick]Ação</genre>
  <fanart>https://abutretorrents.com/capas/velocidade-maxima-2-download-torrent-1997-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -801,8 +801,8 @@
 
  <item> 
  <title>[B][COLOR white]O Juiz-[COLOR red]Lançamento[COLOR red](1995) [/COLOR][/B]</title>
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:Z4AAZVKZSG2RDG52VPRZNBQLHJ5ZA5FN$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:Z4AAZVKZSG2RDG52VPRZNBQLHJ5ZA5FN$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Z4AAZVKZSG2RDG52VPRZNBQLHJ5ZA5FN$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Z4AAZVKZSG2RDG52VPRZNBQLHJ5ZA5FN$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
  <thumbnail>https://i.imgur.com/pm38ZNC.jpg</thumbnail>
  <genre>[B][COLOR firebrick]Ação</genre>
  <fanart>https://i.imgur.com/pm38ZNC.jpg</fanart>
@@ -811,8 +811,8 @@
 
  <item> 
  <title>[B][COLOR white]A Vingança Do Ninja-[COLOR red]Lançamento[COLOR red](1981) [/COLOR][/B]</title>
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:438F5DD95A87117560763F8632C8C4D8B63679C1$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:438F5DD95A87117560763F8632C8C4D8B63679C1$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:438F5DD95A87117560763F8632C8C4D8B63679C1$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:438F5DD95A87117560763F8632C8C4D8B63679C1$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
  <thumbnail>https://abutretorrents.com/capas/a-vinganca-do-ninja-download-torrent-1983-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
  <genre>[B][COLOR firebrick]Ação</genre>
  <fanart>https://abutretorrents.com/capas/a-vinganca-do-ninja-download-torrent-1983-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
@@ -820,19 +820,67 @@
  </item> 
  <item> 
  <title>[B][COLOR white]Ninja 3 - A Dominação-[COLOR red]Lançamento[COLOR red](1984) [/COLOR][/B]</title>
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:64787A5F83860E405E051C4452C0F5A471FBE399$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
- <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:64787A5F83860E405E051C4452C0F5A471FBE399$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:64787A5F83860E405E051C4452C0F5A471FBE399$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:64787A5F83860E405E051C4452C0F5A471FBE399$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
  <thumbnail>https://abutretorrents.com/capas/ninja-3-a-dominacao-download-torrent-1984-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
  <genre>[B][COLOR firebrick]Ação</genre>
  <fanart>https://abutretorrents.com/capas/ninja-3-a-dominacao-download-torrent-1984-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
  <info>[B][COLOR red] SINOPSE:Uma bela garota presencia a morte de um guerreiro ninja por policiais, e acaba sendo possuída pelo espírito do falecido. Ele utiliza a moça como instrumento da sua vingança contra os homens da lei. Somente um outro ninja poderá combater a ameaça a exorcisar a jovem.   [COLOR red][/COLOR][/B]</info>	
  </item> 
 
-                                                               
-                                                              
-                                                        
-                  
-            
-            
-    
-  
+ <item> 
+ <title>[B][COLOR white]A Morte Pede Carona-[COLOR red]Lançamento[COLOR red](1986) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88945F371B19BF622B8AA0EAD68F24660160A011$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88945F371B19BF622B8AA0EAD68F24660160A011$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/capas/a-morte-pede-carona-the-hitcher-download-torrent-1986-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://abutretorrents.com/capas/a-morte-pede-carona-the-hitcher-download-torrent-1986-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Um jovem, Jim Halsey (C. Thomas Howell), está levando um carro para a Califórnia. No caminho ele dá carona a um psicopata, John Ryder (Rutger Hauer), que mata todos os motoristas que lhe dão carona. Entretanto, Jim consegue escapar mas o louco assassino começa a persegui-lo de maneira implacável. Para piorar as coisas, a polícia pensa que Jim é o autor das mortes.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]A Morte Pede Carona 2-[COLOR red]Lançamento[COLOR red](2003) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:90C2146E5BED452E0AC0B14BF7E0ABC7FD1934BF$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54DFAD15AD893409018A1DAD307B26DCE7A1D99B$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/capa/a-morte-pede-carona-2-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://abutretorrents.com/capa/a-morte-pede-carona-2-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Apesar de terem se passado vários anos, Jim Halsey (C. Thomas Howell), um policial, ainda é atormentado por terríveis lembranças. Ao resgatar uma criança seqüestrada ele acaba usando, em razão das suas fobias, "força excessiva" e mata desnecessariamente o seqüestrador. Isto faz com que seja desligado da polícia. Após conversar por telefone com o capitão Esteridge (Stephen Hair), que o ajudou no passado, Jim resolve se encontrar com ele no Condado de Pecos, oeste do Texas, onde Jim passou por experiências traumatizantes. Esteridge acha que só enfrentando seus temores Jim irá superá-los. Acompanhado por Maggie (Kari Wuhrer), sua namorada, ele ruma para lá. Logo os dois descobrem que estão viajando na mesma desolada estrada onde tudo começou. Tudo vai se repetir, pois Maggie não sabe de todos os fatos e assim praticamente obriga Jim a dar uma carona para um psicopata assassino, que encara matar pessoas como um jogo que nunca deve acabar.   [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Território Restrito-[COLOR red]Lançamento[COLOR red](2009) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:94a34d1855cb582b356638c98c8920ced2da2196$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:94a34d1855cb582b356638c98c8920ced2da2196$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AvfhfNq21WSqdwVQwSxWdxEJ9k6.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AvfhfNq21WSqdwVQwSxWdxEJ9k6.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:A trabalhar para o Controlo de Alfândega e Imigração (CAI) em Los Angeles, Max Brogan é um agente que jurou controlar a implementação das leis respeitantes à imigração. Ele está em contacto com as milhares de pessoas que tentam cruzar a fronteira dos EUA em busca de uma vida melhor. Por entre as vidas de Brogan; do seu camarada do CAI, Hamid Baraheri; de Denise Frankel, uma advogada de defesa de imigração; e do adjunto de candidaturas do seu marido, Cole Frankel, presenciamos que o impacto da imigração vai muito mais além do aspecto profissional, ao ponto de moldar as suas vidas. As suas vidas intersectam-se por necessidade, acidente ou destino com a trabalhadora de uma fábrica, Mireya Sanchez; a irmã de Hamid Baraheri, Zabra; o jovem talismã de Bangladesh, Jahangir; o músico britânico Gavin Kossef, a actriz australiana Claire Shepard e o adolescente Coreano Yong Kim.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+<item> 
+ <title>[B][COLOR white]Comando Imbatível-[COLOR red]Lançamento[COLOR red](1990) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f30b4184df97230ee3ba5c08a3476945d1b5949a$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f30b4184df97230ee3ba5c08a3476945d1b5949a$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2hcfqAFyryc1pBSmvvGkFdW1ONZ.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2hcfqAFyryc1pBSmvvGkFdW1ONZ.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Grupo de agentes da Seal, ao serem enviados para resgatar a tripulação de uma aeronave norte-americana que está sendo mantida como refém por terroristas no Oriente Médio, o comando está plenamente ciente que suas habilidades serão colocadas à prova. Mas quando descobrem que os terroristas se apoderaram do arsenal de mísseis letais que estava no avião, eles vão descobrir como é estar no fronte de uma batalha de vida ou morte.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]V de Vingança -[COLOR red]Lançamento[COLOR red](2006) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2959f47d3e5329887af52441ec37fa532b7e6e5$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2959f47d3e5329887af52441ec37fa532b7e6e5$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rvrFkBKTrVCT1nVRuCaemQFRn0.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rvrFkBKTrVCT1nVRuCaemQFRn0.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: Na paisagem futurista de uma Inglaterra totalitária, V de Vingança conta a história de uma pacata jovem chamada Evey (NATALIE PORTMAN), que é resgatada de uma situação de vida e morte por um homem mascarado, conhecido apenas como “V”. Incomparavelmente carismático e extremamente habilidoso na arte do combate e destruição, V inicia uma revolução quando convoca seus compatriotas a erguerem-se contra a tirania e opressão. Enquanto Evey descobre a verdade sobre o misterioso passado de V, ela também descobre a verdade sobre si mesma – e emerge como uma improvável aliada na culminação do plano de V, para trazer liberdade e justiça de volta à sociedade repleta de crueldade e corrupção.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+<item> 
+ <title>[B][COLOR white]Tango & Cash - Os Vingadores-[COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fEeZA2AeBxxZOeEGgRniLdiBkXJ.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fEeZA2AeBxxZOeEGgRniLdiBkXJ.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:  [COLOR red][/COLOR][/B]</info>	
+ </item> 
