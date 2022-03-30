@@ -698,7 +698,136 @@
 <thumbnail>https://i.imgur.com/QFTOJxi.jpg</thumbnail>
 <fanart>https://i.imgur.com/QFTOJxi.jpg</fanart>
 <info>Sinopse:[COLOR yellow][B]Indiana Jones e Os Caçadores da Arca Perdida (Raiders Of The Lost Ark): Veja como tudo começou. Prepare-se para fortes emoções em Indiana Jones e Os Caçadores da Arca Perdida, Indy (Harrison Ford) e sua decidida ex-namorada Marion Ravenwood (Karen Allen) sobrevivem a armadilhas, combatem nazistas e encaram serpentes em sua incrível missão ao redor do mundo, em busca dea mística Arca da Aliança. Experimente uma empolgante aventura atrás da outra com o primeiro e único Indiana Jones. [COLOR white][B] Gênero:[COLOR lime]Aventura / Clássico[/COLOR][/B]</info></item> </info>
-</item>          
+</item> 
+<item> 
+ <title>[B][COLOR white]O Justiceiro - Em Zona de Guerra-[COLOR red]Lançamento[COLOR red](2008) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:f3d8898fb4972e52f9c353a6351ccb029cc66c5a$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:f3d8898fb4972e52f9c353a6351ccb029cc66c5a$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/capas/o-justiceiro-em-zona-de-guerra-download-torrent-2008-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://abutretorrents.com/capas/o-justiceiro-em-zona-de-guerra-download-torrent-2008-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:ravando sua guerra única contra o mundo do crime organizado, o herói-vigilante Frank Castle vai atrás do impulsivo chefe do crime Billy Russoti. Depois que Castle desfigura o rosto de Russoti, o vilão começa sua vingança e se torna Retalho. Com a polícia caçando-o e o FBI incapaz de capturar Retalho, Frank precisa confrontar o exército que Retalho recrutou antes que suas perversas ações fiquem impunes.   [COLOR red][/COLOR][/B]</info>	
+ </item> 
+<item> 
+ <title>[B][COLOR white]O Justiceiro-[COLOR red]Lançamento[COLOR red](2004) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:1b189053e58eca550e73bf36276588379ab1a7d1$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:1b189053e58eca550e73bf36276588379ab1a7d1$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://i.imgur.com/njznDMk.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://i.imgur.com/njznDMk.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:O agente especial Frank Castle (Tom Jane) tem uma boa vida ao lado de uma família carinhosa e um emprego que ama. Mas, seu mundo desmorona quando o seu último trabalho o coloca contra o cruel homem de negócios Howard Saint (John Travolta). Atrás de vingança pelo assassinato de sua família, Castle se torna um cruel vigilante, cuja missão é destruir Saint e toda a sua corja de assassinos. O JUSTICEIRO só poderá se livrar de sua dor através de algo que a lei não pode lhe dar: vingança!  [COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]Leão Branco O lutador Sem Lei -[COLOR red]Lançamento[COLOR red](1990) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:bb6de084b3a109f8ef3cef5463aff4db9ba77b87$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:29ad6ca45949c3852589ccf03ee8fe4c4e5c52ca$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xP8lFtQ97tEqnh8xu4j1FQttYzM.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xP8lFtQ97tEqnh8xu4j1FQttYzM.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Lyon Gaultier abandona a Legião Estrangeira no Norte da África quando recebe a notícia da morte de seu irmão em Los Angeles. Depois de conseguir escapar de dois legionários enviados para trazê-lo de volta, Lyon está determinado a encontrar o assassino de seu irmão. Para isso, ele mergulha no submundo do circuito das lutas de rua para conseguir dinheiro e ajudar a família de seu irmão.  [COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]O Procurado-[COLOR red]Lançamento[COLOR red](1997) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:e7e4026b9c14800b9ce6f7db7d532364360c90c2$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:9D31C028065964A5369C5059692878895FCEAAAA$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8vKh2AnzJaRM1eALkBKEU97NK1B.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8vKh2AnzJaRM1eALkBKEU97NK1B.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Wesley Gibson é um jovem de 25 anos de idade que não vê muito sentido na vida após o misterioso assassinato do pai. Tudo muda quando Wes conhece Fox, uma mulher enigmática e sedutora que o contrata para uma sociedade secreta chamada de Fraternidade. O objetivo de Fox é treinar Wes para que ele se torne um assassino da Fraternidade, mas também se vingue da morte do pai. Aos poucos, no entanto, o rapaz vai descobrindo que o perigo está mais perto do que os olhos podem ver.   [COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]60 Segundos-[COLOR red]Lançamento[COLOR red](2000) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:9fe644bd17c247f8506e31ae364757e45e3980c4$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:f1de6eb04c9741f294c3dd7c1d5940dcc0afeddc$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://i.imgur.com/v1zkp6J.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://i.imgur.com/v1zkp6J.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Randall "Memphis" Raines (Nicolas Cage) é um lendário ladrão de carros. Nenhuma fechadura ou alarme pode pará-lo e ele consegue roubar seu carro em apenas 60 segundos. Durante anos, Memphis iludiu a polícia local, aplicando todo tipo de golpe imaginável. Mas quando o cerco ficou muito intenso, ele decidiu por largar a vida de crimes e partir para uma vida completamente diferente. Mas agora, quando seu irmão caçula (Giovanni Ribisi) está tentando seguir seus passos no mundo do assalto a automóveis, Memphis volta a agir para tentar salvar a vida de seu irmão  [COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]Elektra-[COLOR red]Lançamento[COLOR red](2005) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:9bb695bdef72eb49bd6e6e70bf671e0199c76dea$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:9bb695bdef72eb49bd6e6e70bf671e0199c76dea$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://http2.mlstatic.com/D_NQ_NP_858993-MLB46260161206_062021-O.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://http2.mlstatic.com/D_NQ_NP_858993-MLB46260161206_062021-O.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Torturada pelo passado, Elektra (Jennifer Garner) é obcecada por sua morte e seu misterioso renascimento. Apesar de ter sido treinada na rígida disciplina do ninjutsu, ela não consegue controlar a fúria que sente pela morte dos pais. Sua ânsia por vingança faz com que parta para o exílio e se torne uma perigosa assassina profissional. Seu novo alvo é Abby (Kirsten Prout), uma garota de apenas 13 anos, e seu pai, Mark (Goran Visnjic), os quais precisam salvar de um perigoso inimigo, que possui poderes sobrenaturais.  [COLOR red][/COLOR][/B]</info>	
+ </item> 
+<item> 
+ <title>[B][COLOR white]Cão De Briga-[COLOR red]Lançamento[COLOR red](2005) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:51517d84346ab6e1d24df4468aab762ca74f7869$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:32009552f3e51fa559cafd416c573b014ecb90d9$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://i.imgur.com/mXepZiq.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://i.imgur.com/mXepZiq.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Danny (Jet Li) é um escravo que viveu e cresceu sem receber nenhum tipo de educação. A única coisa a qual ele foi instruído foi como lutar. Tratado como um animal doméstico por seu dono, Bart (Bob Hoskins), Danny usa até uma coleira e foi criado como uma máquina de lutar, competindo em clubes ilegais e faturando muito dinheiro para seu dono. Quando um acidente de carro deixa Bart em coma, Danny conhece um pianista cego (Morgan Freeman), que ensina o lutador sobre a vida por meio da música.  [COLOR red][/COLOR][/B]</info>	
+ </item> 
+<item> 
+ <title>[B][COLOR white]O Alvo-[COLOR red]Lançamento[COLOR red](1993) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:96d3c94866d9f3365ab4f8d2722a86a721138d91$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:96d3c94866d9f3365ab4f8d2722a86a721138d91$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/98xtnc5kvvcm39VjPGQuRLOBCyQ.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/98xtnc5kvvcm39VjPGQuRLOBCyQ.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Chance Bondreaux (Jean-Claude Van Damme) é um estivador que trabalha no cais de Nova Orleans e que ajuda Natasha Binder (Yancy Butler), uma advogada, a encontrar seu pai desaparecido. Em sua investigação Chance descobre uma quadrilha que negocia pessoas, caçando mendigos e ex-combatentes em um safari mortal. É quando ele decide combater Emil Fouchon (Lance Henriksen), o chefe do negócio, e seus capangas.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+<item> 
+ <title>[B][COLOR white]O Destruidor-[COLOR red]Lançamento[COLOR red](1994) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:7F90222F7B06E05D12AB079A2534C533E9B3E510$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:7F90222F7B06E05D12AB079A2534C533E9B3E510$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cp2OeUlOl1sPddZ0ECKHJcXScu5.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cp2OeUlOl1sPddZ0ECKHJcXScu5.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Um mal assola as ruas de Londres. Frio, calculista e incansável, ele ataca durante a lua cheia, deixando um rastro de sangue e terror. O policial Harley Stone tenta superar os limites de sua própria sanidade para acabar com a criatura.  [COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]Velocidade Maxima-[COLOR red]Lançamento[COLOR red](1994) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:d8d660b15c34eba110ca9844f1a69925eb56fb1a$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:d8d660b15c34eba110ca9844f1a69925eb56fb1a$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://i.imgur.com/Ctr0uVz.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://i.imgur.com/Ctr0uVz.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Em Los Angeles, o psicopata Howard Payne (Dennis Hopper) colocou uma bomba em um ônibus, que explodirá caso a velocidade do veículo seja inferior a 80 km/h. Assim Jack Traven (Keanu Reeves), um policial, entra no veículo com ele em movimento e explica a situação aos passageiros, mas um deles, que tinha cometido algum tipo de crime, sente-se perseguido e acaba provocando um tiro acidental, que fere o motorista. Isto força o policial a pedir que Annie Porter (Sandra Bullock), uma passageira, dirija sem deixar cair a velocidade ou todos morrerão, enquanto a polícia tenta encontrar um meio de desarmar a bomba.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]Velocidade Maxima 2-[COLOR red]Lançamento[COLOR red](1997) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:ab36dd5ebb1b70d56e96ab294965734b440f8aac$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:ab36dd5ebb1b70d56e96ab294965734b440f8aac$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/capas/velocidade-maxima-2-download-torrent-1997-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://abutretorrents.com/capas/velocidade-maxima-2-download-torrent-1997-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: O cruzeiro que Annie (Sandra Bullock) faz ao Caribe com Alex Shaw (Jason Patric), seu namorado (que secretamente é membro da elite da SWAT), é interrompido quando John Geiger (Willem Dafoe), um gênio em informática, sequestra a embarcação. Alex precisa rapidamente anular os planos de Giger e fazer com que todos cheguem em segurança à costa, mas há um grave problema: como Alex vai enganar Geiger, se ele controla todo o navio através de um teclado?  [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]O Juiz-[COLOR red]Lançamento[COLOR red](1995) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:Z4AAZVKZSG2RDG52VPRZNBQLHJ5ZA5FN$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:Z4AAZVKZSG2RDG52VPRZNBQLHJ5ZA5FN$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://i.imgur.com/pm38ZNC.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://i.imgur.com/pm38ZNC.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: o terceiro milênio, o mundo mudou. O clima, as nações, tudo entrou em revolta e o planeta se transformou em um deserto insalubre e desolado, conhecido como "A Terra Maldita." Milhões de pessoas habitavam as escassas "megacidades", onde bandos errantes e selvagens urbanos geravam tamanha violência que o sistema judiciário não podia controlá-los. A lei como conhecemos entrou em colapso. Da decadência surgiu uma nova ordem, uma sociedade regida por uma nova força de elite da polícia, que atua como juiz, júri e carrasco, que são conhecidos como "Os Juizes". Dredd (Sylvester Stallone), o mais lendário dos juizes, é vítima de um plano que o incrimina como assassino e acaba banindo-o da cidade onde vive.  [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]A Vingança Do Ninja-[COLOR red]Lançamento[COLOR red](1981) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:438F5DD95A87117560763F8632C8C4D8B63679C1$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:438F5DD95A87117560763F8632C8C4D8B63679C1$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/capas/a-vinganca-do-ninja-download-torrent-1983-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://abutretorrents.com/capas/a-vinganca-do-ninja-download-torrent-1983-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: KOSUGI é Cho Osaki, um autêntico guerreiro de tradição ninja, que se muda para os Estados Unidos para tentar uma vida nova. Lá ele monta uma galeria de artes e pasa a compartilhar com mais tempo da amizade do filho pequeno Kane e da companheira Cathy. Mas uma série de assassinatos em sua cidade, ligados ao tráfico de drogas, acabam por tirar-lhe o sossego. E isso porque as investigações revelam que é um outro ninja quem está por trás de tudo. Quando a galeria de Osaki é arrombada e sua mulher e filho seqüestrados, um comfronto entre os dois ninjas se torna inevitável. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]Ninja 3 - A Dominação-[COLOR red]Lançamento[COLOR red](1984) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:64787A5F83860E405E051C4452C0F5A471FBE399$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:btih:64787A5F83860E405E051C4452C0F5A471FBE399$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/capas/ninja-3-a-dominacao-download-torrent-1984-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://abutretorrents.com/capas/ninja-3-a-dominacao-download-torrent-1984-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Uma bela garota presencia a morte de um guerreiro ninja por policiais, e acaba sendo possuída pelo espírito do falecido. Ele utiliza a moça como instrumento da sua vingança contra os homens da lei. Somente um outro ninja poderá combater a ameaça a exorcisar a jovem.   [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
                                                                
                                                               
                                                         
