@@ -884,3 +884,256 @@
  <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fEeZA2AeBxxZOeEGgRniLdiBkXJ.jpg</fanart>
  <info>[B][COLOR red] SINOPSE:  [COLOR red][/COLOR][/B]</info>	
  </item> 
+ <item> 
+ <title>[B][COLOR white]A Outra Face -[COLOR red]Lançamento[COLOR red](1997) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7a83b0fe1da114da636d32fccb2d051d278eec2$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7a83b0fe1da114da636d32fccb2d051d278eec2$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYLBlcdtP2XvfN0cytMmSy0yrRt.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYLBlcdtP2XvfN0cytMmSy0yrRt.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Sean Archer (John Travolta), um agente especial do FBI, vê seu filho ser morto por balas destinadas a ele, disparadas por Castor Troy (Nicolas Cage), um terrorista psicopata. Por seis anos o agente tentou capturá-lo e, quando consegue, descobre que uma grande explosão está para acontecer em Los Angeles por obra do criminoso, que, logo depois, devido a um acidente, entra em coma profundo. Assim, Sean Archer, utilizando uma técnica revolucionária, troca de rosto com Castor Troy, para conseguir com o irmão (Alessandro Nivola) deste a localização da bomba. Mas o criminoso sai do coma, e agora ele tem o rosto do agente do FBI Sean Archer.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]Um Dia de Fúria-[COLOR red]Lançamento[COLOR red](1993) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:71227207a73d6acf44f10943d5f113734a039839$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:71227207a73d6acf44f10943d5f113734a039839$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dI8CFBrfd62g5tlTZLT18DMqgs0.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dI8CFBrfd62g5tlTZLT18DMqgs0.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: Prendergast (Robert Duvall), um policial em seu último dia de trabalho pois vai se aposentar, arrisca sua vida para tentar deter William Foster (Michael Douglas), um homem emocionalmente perturbado que perdeu seu emprego e vai ao encontro de Beth (Barbara Hershey), sua ex-mulher, e da filha, sem requer reconhecer que o seu casamento já acabou há muito tempo. Em seu caminho, William vai eliminando quem cruza seu destino.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+</item> 
+ <item> 
+ <title>[B][COLOR white]Conan, o Bárbaro-[COLOR red]Lançamento[COLOR red](1982) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34A8F5B530AC27366443DE9C3F1689D144E5C2E6$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34A8F5B530AC27366443DE9C3F1689D144E5C2E6$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6NjkjDBkbu4je0XIfmIZEQ53b3k.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6NjkjDBkbu4je0XIfmIZEQ53b3k.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Há milhares de anos Thulsa Doom, um demoníaco feiticeiro, comanda um ataque por motivos até hoje não revelados que poderia ser simplesmente pelo prazer de matar ou para descobrir o segredo do aço, que era guardado pelos moradores desta aldeia. Conan, um cimério, vê seus pais serem mortos na sua frente e seu povo ser massacrado, sendo que ele, ainda criança, é levado para um campo de escravos. Os anos passam e ele desenvolve uma enorme força física, o que faz Conan se tornar gladiador. Ele ainda se mantém determinado a vingar a morte dos pais e quando é libertado tenta alcançar seu objetivo. Conan descobre que Thulsa Doom lidera o misterioso culto da serpente e, tentando se aproximar do feiticeiro, faz amizade com dois ladrões, Valeria e Subotai. Ao trio é prometida uma vultosa recompensa pelo rei Osric, que quer que o trio de guerreiros resgate sua filha, que se tornou uma seguidora de Thulsa Doom[COLOR red][/COLOR][/B]</info>	
+ </item> 
+</item> 
+ <item> 
+ <title>[B][COLOR white]Conan, O Destruidor -[COLOR red]Lançamento[COLOR red](1984) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D38F025AC6E56EF320EC31B918C2388F0353153$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F9D3D7DC0A3E79FBDACB347E446D25BA7C0F2444$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cgEdHF2c1wuf248AjqMXUKO7YHW.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cgEdHF2c1wuf248AjqMXUKO7YHW.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:  Para que a rainha Taramis, cumpra a promessa de trazer a amada de Conan, Valeria, do mundo dos mortos, terá de cumprir uma perigosa missão da qual faz parte a princesa Jehnna. Mas o que ele desconhece é que Taramis, ordenou que, após a missão cumprida, Conan, deve ser morto e a virginal princesa deve voltar para então ser sacrificada ao deus demônio Dagoth.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+</item> 
+ <item> 
+ <title>[B][COLOR white]Conan, o Bárbaro -[COLOR red]Lançamento[COLOR red](2011) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c11915c004bfccf6af1399ad149f418b1b504bcc$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c11915c004bfccf6af1399ad149f418b1b504bcc$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbks565OOTYsO3Cd9capcGz5hXX.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbks565OOTYsO3Cd9capcGz5hXX.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:O maior e mais lendário bárbaro de todos os tempos está de volta. Prosperou e evoluiu para oito décadas consecutivas na imaginação do público - em quadrinhos, jogos, tela grande e pequena - explorar Conan na Era Hiboriana será como nunca, seu mundo ganhou vida em um filme 3D colossal, cheio de ação e aventura. A busca feroz do guerreiro cimério começa como uma vingança pessoal, mas logo se transforma em uma batalha épica contra seus rivais hukking, e situações impossíveis, Conan é única opção para salvar as grandes nações da Hyboria de uma invasão sobrenatural.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+<item> 
+ <title>[B][COLOR white]Fúria em Duas Rodas-[COLOR red]Lançamento[COLOR red](2004) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FBF966D597E99A8E2F191B564EC7643A68B61693$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FBF966D597E99A8E2F191B564EC7643A68B61693$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQbNFkRKiv5HWUrJYlaxbfTG7j2.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQbNFkRKiv5HWUrJYlaxbfTG7j2.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Cary Ford (Martin Henderson) é um motociclista que tem recebido constantes ameaças de um velho rival, por causa do assassinato de um integrante de outro grupo de motoqueiros. Temendo ser assassinado por Trey (Ice Cube), irmão do motoqueiro morto, Cary decide fugir. Porém Trey e várias gangues partem em seu encalço.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+<item> 
+ <title>[B][COLOR white] Con Air: A Rota da Fuga -[COLOR red]Lançamento[COLOR red](1997) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0d9eb02bf644223726cf531641477daeb8323ac0$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0d9eb02bf644223726cf531641477daeb8323ac0$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZkSkcXTZhTIfZOSXMkYcnIKne.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZkSkcXTZhTIfZOSXMkYcnIKne.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Cameron Poe (Nicolas Cage) conquistou a liberdade condicional e pega carona em um voo que transporta diversos criminosos do país, entre eles, o psicopata Cyrus (John Malkovich). Mas o que era para ser apenas uma viagem torna-se um grande pesadelo porque os bandidos assumem o controle do avião para sair do país e dão início a um insano plano de fuga. Agora, Poe terá que fingir que está de acordo com eles para se manter vivo e depois tentar reverter a situação. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+<item> 
+ <title>[B][COLOR white]À Espera de Um Milagre-[COLOR red]Lançamento[COLOR red](1999) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E2721EA4C1BDB4867C99540C9884194AB5EFA9FC$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E2721EA4C1BDB4867C99540C9884194AB5EFA9FC$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RKjFMIlb3UmvUtxeM1uzS0WMhG.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RKjFMIlb3UmvUtxeM1uzS0WMhG.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:1935, no corredor da morte de uma prisão sulista. Paul Edgecomb (Tom Hanks) é o chefe de guarda da prisão, que temJohn Coffey (Michael Clarke Duncan) como um de seus prisioneiros. Aos poucos, desenvolve-se entre eles uma relação incomum, baseada na descoberta de que o prisioneiro possui um dom mágico que é, ao mesmo tempo, misterioso e milagroso.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+<item> 
+ <title>[B][COLOR white]O Soldado do Futuro-[COLOR red]Lançamento[COLOR red](1998) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E6D9075F818BF269348842D36D853E95B8AA361C$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E6D9075F818BF269348842D36D853E95B8AA361C$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wjziUc5HK1emyez9lBGHre3jD4i.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wjziUc5HK1emyez9lBGHre3jD4i.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:  [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Pompeia-[COLOR red]Lançamento[COLOR red](2014) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f23e509db962d06b03d27deac4d2912097df29e$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f23e509db962d06b03d27deac4d2912097df29e$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6ra0R68G73hjeKuN4MwalhHd5vK.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>xx</fanart>
+ <info>[B][COLOR red] SINOPSE:Alguns dias antes da lendária erupção do monte Vesúvio, o escravo Milo está preso dentro de um navio, em direção à Nápoles. Ele vai fazer de tudo para escapar e salvar a mulher que ama, além de ajudar o seu melhor amigo, um gladiador que está em dificuldades no interior do Coliseu.  [COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white] O Terno de 2 Bilhões de Dólares-[COLOR red]Lançamento[COLOR red](2002) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A17AEF64935A400915BB9727B3C50A5D8306C5D6$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A17AEF64935A400915BB9727B3C50A5D8306C5D6$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kF1aWQzrAaSBCtUrPSZKFXjSoNb.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kF1aWQzrAaSBCtUrPSZKFXjSoNb.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Jimmy Tong (Jackie Chan) é o simpático chofer do milionário Clark Devlin (Jason Isaacs), que acaba sofrendo um acidente que o hospitaliza. Tong é enviado para a casa de seu patrão para resolver alguns assuntos quando, sem saber, decide experimentar seu terno. Tal ato não haveria nenhum problema se o terno de Devlin não fosse computadorizado e desse a quem o veste uma série de poderes, fazendo com que Tong se envolva em uma intriga internacional de espionagem que o coloca ao lado de Del Blaine (Jennifer Love Hewitt), sua mais nova parceira.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Volta ao Mundo em 80 Dias - Uma Aposta Muito Louca-[COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d5d657e6bc8da3a553009d264ee43673ec928fe7$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d5d657e6bc8da3a553009d264ee43673ec928fe7$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xcy62czpO413jOCrBnwa5AF1Wrd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xcy62czpO413jOCrBnwa5AF1Wrd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: Londres, final do século XIX. O inventor Phileas Fogg (Steve Coogan) é visto pela conservadora comunidade científica, liderada por Lorde Kelvin (Jim Broadbent), como um excêntrico, pois acham suas idéias mirabolantes. Fogg está usando um oriental, que diz chamar-se Passepartout (Jackie Chan), como piloto de testes. Na verdade ele é Lau Xing, um chinês que pegou de volta o Buda de Jade, um estatueta que protegia seu povo e tinha sido roubada por uma facção rival e colocada no Banco da Inglaterra. Recuperar a estatueta não é suficiente para Lau, pois ele precisa levá-la de volta para sua aldeia. Assim instiga Fogg a fazer uma aposta com Lorde Kelvin, que não envolvia dinheiro e sim prestígio. Para vencê-la Fogg precisa dar a volta ao mundo em no máximo oitenta dias, algo impensável para a época. Fogg aceita o desafio, que em si já é bem difícil, ainda mais com Lorde Kelvin e seus amigos fazendo todo o tipo de trapaça para Fogg perder a aposta. Logo no 2º dia de viagem, em Paris, Monique La Roche (Cécile de France), uma garçonete que sonha em ser pintora, se une aos dois amigos em uma viagem cheia de aventuras e perigos através do mundo.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]O Medalhão-[COLOR red]Lançamento[COLOR red](2003) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d47796824b8dec29d59bc18efe2fd9b2d8ae1cd7$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d47796824b8dec29d59bc18efe2fd9b2d8ae1cd7$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/original/e1ijdJNuzGoo4GDR7BSuAJN81O2.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://www.themoviedb.org/t/p/original/e1ijdJNuzGoo4GDR7BSuAJN81O2.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Está escrito que no 4º mês do Ano da Serpente uma criança será escolhida para unir as duas metades do medalhão sagrado em um só e, ao seu toque, o medalhão será dotado de extraordinários poderes sobrenaturais. Isto está prestes a acontecer em Hong Kong. O detetive da polícia Eddie Yang (Jackie Chan) fica sabendo que estrangeiros rumam para o Templo Kwun Yum, assim avisa Arthur Watson (Lee Evans), que comanda uma equipe da Interpol. Por sentir uma certa inveja de Yang, Watson não permite que ele atue na operação. O diabólico Snakehead (Julian Sands) invade o templo e quer pegar o medalhão para si, mas antes precisa esperar que Jai (Alex Bao), o escolhido, complete um ritual. A Interpol entra no templo desordenadamente, o que dá chance de Snakehead e seus capangas de fugirem. Jai só fica ileso pois Yang entrou no templo por contra própria. Watson e Yang não entenderam por qual razão o templo foi invadido por Snakehead, que irritado ordena que seqüestrem Jai e o levem para Dublin, na Irlanda. Yang nem pensa que em Dublin, juntamente com Watson e Nicole James (Claire Forlani), uma agente da Interpol com quem está envolvido, ele viverá a mais fantástica aventura da sua vida.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Busca Explosiva-[COLOR red]Lançamento[COLOR red](2006) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E9A0467DE59AACE98D7E03248BBD1B1A78A37BBF$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4FEAA49C705B1B0E94838399A6901F598979E766$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/original/uCVrjMLyngtmVrFn5FMpx9xucwn.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://www.themoviedb.org/t/p/original/uCVrjMLyngtmVrFn5FMpx9xucwn.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:JOHN CENA, o CAMPEÃO DA WWE, domina a cena no papel do fuzileiro John Triton. Onde quer que haja perigo, lá está Triton detonando. e ele não joga seguindo as regras! Após Triton ser enviado de volta da Guerra do Iraque, Kate, sua linda esposa (Kelly Carlson de Nip/Tuck), é seqüestrada por impiedosos ladrões de jóias comandados por um implacável assassino (Robert Patrick)! Agora, Triton precisa lutar para salvá-la, usando sua arma mais poderosa: ele mesmo![COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]Guerra dos Mundos -[COLOR red]Lançamento[COLOR red](2006) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb5540b9522f1946fe934fdfaaaa0c1331424b0c$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb5540b9522f1946fe934fdfaaaa0c1331424b0c$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/original/1Ow1IfvMkp3f7UQ2C5hIeEwBJG2.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://www.themoviedb.org/t/p/original/1Ow1IfvMkp3f7UQ2C5hIeEwBJG2.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Ray Ferrier é um estivador divorciado, afastado de seus filhos, que vivem com a mãe. Quando sua ex-esposa deixa as crianças para ele cuidar durante alguns dias, o planeta é atacado por alienígenas que surgem do chão conduzindo tripods e destruindo tudo que encontram pelo caminho. Ray tenta proteger os seus filhos e fugir para Boston para se juntar a sua ex-esposa. Durante o trajeto, enfrenta várias adversidades e ataques.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Street Fighter: A Última Batalha-[COLOR red]Lançamento[COLOR red](1994) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59E2E4216C5882397E9386AFC524533FA7BF3968$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59E2E4216C5882397E9386AFC524533FA7BF3968$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/original/nH6hPhJq3EEv9CnBZgXU3IQnpJo.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://www.themoviedb.org/t/p/original/nH6hPhJq3EEv9CnBZgXU3IQnpJo.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Street Fighter - A Última Batalha dublado e com qualidade de blu-ray, no filme você pode escolher entre a dublagem clássica dos anos 90 e a nova dublagem. Em Shadaloo, uma cidade localizada no sudeste da Ásia, uma guerra civil é orquestrada pelo General M. Bison (Raul Julia). O conflito ganha importância mundial após Bison sequestrar 63 delegados das Nações Unidas, exigindo por eles um resgate de US$ 20 bilhões. Para libertar os reféns é designado o Coronel Guile (Jean-Claude Van Damme), que conta com a ajuda de Cammy (Kylie Minogue), uma oficial da Inteligência Britânica, e ainda dois heróis casuais em sua tentativa de invadir a fortaleza de Bison. Mas o plano de Guile pode ir por água abaixo devido a uma repórter de TV (Ming-Na) que quer aproveitar o momento conturbado para realizar uma vingança pessoal.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]Desafio Mortal -[COLOR red]Lançamento[COLOR red](1996) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0027a02e4a78886914945bee09cfd6f7ca561fdb$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0027a02e4a78886914945bee09cfd6f7ca561fdb$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/original/cncuckBn8pqImh2NEPTjq46XVbv.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://www.themoviedb.org/t/p/original/cncuckBn8pqImh2NEPTjq46XVbv.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Christopher Dubois (Van Damme) é um artista de rua em Nova York que se dedica a proteger um grupo de crianças pobres que sobrevivem cometendo pequenos delitos. Mas ao roubarem uma maleta de dinheiro, Dubois fica em maus lençóis e tem de fugir. Acaba caindo num navio que está zarpando para o Oriente. Em alto mar, saqueados pelo vigarista Lorde Dobbs (Roger Moore), Dubois é vendido para Khao, um mestre de luta livre. numa terra desconhecida, Dubois transforma--se em exímio lutador. Seu grande objetivo: vencer o Ghang-gheng, um campeonato secreto que reúne os maiores lutadores do mundo. Agora é uma questão de honra e Dubois está disposto a tudo![COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]Kickboxer - O Desafio do Dragão-[COLOR red]Lançamento[COLOR red](1989) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2637888ca143e6e503f4c12793a34038aeaefbcd$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2637888ca143e6e503f4c12793a34038aeaefbcd$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e50XYhyoaJpJUNn18Fs4FsZgtfx.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e50XYhyoaJpJUNn18Fs4FsZgtfx.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Acompanhado por seu irmão Kurt (Van Damme) o campeão de Kickbox americano, Eric Sloane (Dennis Alexio), chega à Tailândia para enfrentar os lutadores orientais em seu próprio esporte. Seu oponente: o cruel campeão de Thai, Tong Po. Tong não só derrota Eric, como tambem o paraliza para sempre. Enlouquecido pelo ódio, Kurt clama por vingança. Depois de um difícil treinamento nas antigas técnicas de kickbox com o mestre tailandês Xian Chow, Kurt desafia Tong. Sua luta final, nascida de lexúria, poder e vingança, deixará apenas um homem de pé.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+ <item> 
+ <title>[B][COLOR white]Legionário-[COLOR red]Lançamento[COLOR red](1998) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GM4O64774664P7B7DX7MACCXNGHNP6Q7$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GM4O64774664P7B7DX7MACCXNGHNP6Q7$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pTmf7SWVhv2wtN5Po478KnsZan2.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pTmf7SWVhv2wtN5Po478KnsZan2.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:França, 1924. Famoso, carismático e sempre com belas mulheres à tiracolo, o lutador Alain Le Freve (Van Damme) recebe de um chefão do crime organizado a proposta mais indecente de sua carreira: entregar uma luta. Mais que uma proposta, perder o combate é uma imposição da máfia local. Porém, o sangue quente e o instinto vencedor de LeFreve falam mais alto, e ele arrasa seu adversário logo nos primeiros Rounds . Jurado de morte e perseguido pelos mafiosos mais perigosos da Europa, ele só vê uma saída: alistar-se na Legião Estrangeira e fugir para o Norte da África. Lá chegando, porém, ele logo percebe que a aridez do deserto e a violência dos homens, podem ser mais avassaladoras que o mundo de crimes que ele deixou para trás.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+<item> 
+ <title>[B][COLOR white]Leão Branco - O Lutador Sem Lei-[COLOR red]Lançamento[COLOR red](1990) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29ad6ca45949c3852589ccf03ee8fe4c4e5c52ca$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29ad6ca45949c3852589ccf03ee8fe4c4e5c52ca$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xP8lFtQ97tEqnh8xu4j1FQttYzM.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xP8lFtQ97tEqnh8xu4j1FQttYzM.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Lyon Gaultier abandona a Legião Estrangeira no Norte da África quando recebe a notícia da morte de seu irmão em Los Angeles. Depois de conseguir escapar de dois legionários enviados para trazê-lo de volta, Lyon está determinado a encontrar o assassino de seu irmão. Para isso, ele mergulha no submundo do circuito das lutas de rua para conseguir dinheiro e ajudar a família de seu irmão.  [COLOR red][/COLOR][/B]</info>	
+ </item> 
+<item> 
+ <title>[B][COLOR white]O Alvo-[COLOR red]Lançamento[COLOR red](1993) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96d3c94866d9f3365ab4f8d2722a86a721138d91$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96d3c94866d9f3365ab4f8d2722a86a721138d91$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/98xtnc5kvvcm39VjPGQuRLOBCyQ.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/98xtnc5kvvcm39VjPGQuRLOBCyQ.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Chance Bondreaux (Jean-Claude Van Damme) é um estivador que trabalha no cais de Nova Orleans e que ajuda Natasha Binder (Yancy Butler), uma advogada, a encontrar seu pai desaparecido. Em sua investigação Chance descobre uma quadrilha que negocia pessoas, caçando mendigos e ex-combatentes em um safari mortal. É quando ele decide combater Emil Fouchon (Lance Henriksen), o chefe do negócio, e seus capangas.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]O Grande Dragão Branco -[COLOR red]Lançamento[COLOR red](1988) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96d3c94866d9f3365ab4f8d2722a86a721138d91$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96d3c94866d9f3365ab4f8d2722a86a721138d91$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y9Qp6ngGWc0lxhwNfzrLEtAUE0z.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y9Qp6ngGWc0lxhwNfzrLEtAUE0z.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:O soldado americano Frank Dux vai a Hong Kong para ser aceito no Kumite, uma competição de artes marciais altamente secreta e extremamente violenta. Enquanto tenta ganhar acesso ao mundo subterrâneo dos combatentes clandestinos, ele também tem que fugir dos oficiais militares que o consideram um desertor. Depois de suportar um treinamento difícil e começar um romance com a jornalista Janice Kent, é dada a Frank a oportunidade de lutar.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]Vencer ou Morrer-[COLOR red]Lançamento[COLOR red](1993) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9b1d0d1280fb6feed5d1b228d4dcaee620ad941$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9b1d0d1280fb6feed5d1b228d4dcaee620ad941$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vZGCG847nhYqScEsRggyxcCWwI6.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vZGCG847nhYqScEsRggyxcCWwI6.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Um prisioneiro foragido, Sam (Jean-Claude Van Damme), tem o azar de estar sempre na hora certa no lugar errado. Arriscando sua liberdade tão duramente conquistada, ele ajuda uma bela viúva (Rosana Arquette), contra um inescrupuloso construtor que quer sua terra. Caçado pela polícia e pelos assassinos contratados pelo empresário, Sam tem que se defender a qualquer custo para sobreviver.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]True Lies-[COLOR red]Lançamento[COLOR red](1994) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2c43ad82871ffc03518af4febf3493e4d17cc71$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2c43ad82871ffc03518af4febf3493e4d17cc71$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pweFTnzzTfGK68woSVkiTgjLzWm.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pweFTnzzTfGK68woSVkiTgjLzWm.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Agente de governo (Arnold Schwarzenegger), especialista em combate ao terrorismo, está casado há quinze anos, sendo que durante todo este tempo faz sua mulher (Jamie Lee Curtis) acreditar que apenas vende material de informática. A esposa por sua vez acha sua vida insossa e, coincidentemente, se envolve com um pretenso espião (Bill Paxton), no intento de trazer alguma emoção ao seu dia-a-dia. Ao investigar o "caso" da mulher, o agente descobre que o tal "espião" na verdade é um simples vendedor de carros, que inventa histórias mirabolantes para tentar conquistar mulheres emocionalmente carentes, e que sua mulher não o está traindo. Mas resolve dar um "susto" nela e, sem querer, acaba envolvendo a mulher e a filha (Elisa Dushku) em um caso de terrorismo no qual está trabalhando.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]Efeito Colateral-[COLOR red]Lançamento[COLOR red](2002) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D02B77A457892B002191B97CDE953868D4E40F40$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0507EEA01169700E347FACFBC9EA5BC97EF5C84D$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yOwkMzHXDIzZi7CqKzgMf9UxH7p.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yOwkMzHXDIzZi7CqKzgMf9UxH7p.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Gordon Brewer (Arnold Schwarzenegger) é um bombeiro que perde sua esposa e filho em um atentado terrorista organizado por Claudio "The Wolf" Perrini (Cliff Curtis). Como as investigações oficiais do governo americano parecem não chegar a lugar algum, Brewer decide então perseguir o próprio "The Wolf", se envolvendo em um complicado jogo que o leva até a Colômbia.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white] A Última Ameaça-[COLOR red]Lançamento[COLOR red](1996) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CCD34288B8A3C660E11C19253262EEFAC94258D7$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CCD34288B8A3C660E11C19253262EEFAC94258D7$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBPMwYYJFvdCBkXrwV75peo5Lz2.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBPMwYYJFvdCBkXrwV75peo5Lz2.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Um piloto (John Travolta) da Força Aérea ejeta seu companheiro (Christian Slater) e rouba duas armas nucleares com o intuito de "devolvê-la" ao governo dos Estados Unidos mediante um resgate de 250 milhões de dólares. Mas seu co-piloto e uma guarda florestal (Samantha Mathis) fazem de tudo para frustrar os planos dele e dos seus cúmplices.[COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]O Dia Depois de Amanhã -[COLOR red]Lançamento[COLOR red](2004) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5AD84844D988B5D4523BC4805A14C9F416420A69$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2AC636C2FA84F39BCA60376A43FC03D5A57E638D$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
+ <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/AeTqUixVRlB0oS6JVgjCxLGvwls.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação</genre>
+ <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/AeTqUixVRlB0oS6JVgjCxLGvwls.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Agora com qualidade de bluray O dia Depois de Amanhã vem com qualidade excelente e resoluções 1080p e 720p em dual áudio 5.1. A Terra sofre alterações climáticas que modificam drasticamente a vida da humanidade. Com o norte se resfriando cada vez mais e passando por uma nova era glacial, milhões de sobreviventes rumam para o sul. Porém o paleoclimatologista Jack Hall (Dennis Quaid) segue o caminho inverso e parte para Nova York, já que acredita que seu filho Sam (Jake Gyllenhaal) ainda está vivo.[COLOR red][/COLOR][/B]</info>	
+ </item> 
