@@ -1,4 +1,30 @@
+<item>
+<title>[B]Mudança do Barulho [/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:W35BU3QKOOQTMDGXB6QHSGX3CXEC7VHL$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:W35BU3QKOOQTMDGXB6QHSGX3CXEC7VHL$nome=[COLOR yellow]| HD | 720p[/COLOR]</link>
+<thumbnail>https://abutretorrents.com/imagens/mudanca-do-barulho-moving-download-torrent-1988-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://abutretorrents.com/imagens/mudanca-do-barulho-moving-download-torrent-1988-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Sinopse:[COLOR yellow][B]Arlo Pear é um engenheiro de trânsito que mora em Nova Jersey com a esposa, a filha adolescente e dois filhos gêmeos. É despedido da empresa onde trabalha e arruma um emprego irrecusável numa cidadezinha do interior. Seu primeiro desafio é convencer sua família a se mudar. É uma tarefa dura, mas que não é nem o começo de todas as confusões que passarão até se instalarem na nova casa. [COLOR white][B] Gênero:[COLOR lime]Clássico / Comédia[/COLOR][/B]</info></item> </info>
+</item>
 
+<item>
+<title>[B]O Céu Pode Esperar[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PL6IYTJQOBQYUM3AK34X6FCM5AGK7D67$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PL6IYTJQOBQYUM3AK34X6FCM5AGK7D67$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
+<thumbnail>https://abutretorrents.com/imagens/o-ceu-pode-esperar-download-torrent-2001-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://abutretorrents.com/imagens/o-ceu-pode-esperar-download-torrent-2001-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Sinopse:[COLOR yellow][B]Lance Barton (Chris Rock) é um comediante negro que tem por sonho atuar em uma lendária casa de show em Nova York antes que ela feche suas portas para sempre. Porém, em uma noite ele acaba sendo atropelado por um caminhão e morre. Ao chegar ao paraíso, ainda sem saber direito o que tinha ocorrido, ele conhece King (Chazz Palminteri) e Keyes (Eugene Levy), os anjos que o retiraram da Terra por engano. Para corrigir seu erro, King oferece a Lance que ele retorne à Terra novamente em outro corpo, proposta esta que é aceita. Porém, ao chegar novamente à Terra Lance percebe que agora é Charles Wellington (Brian Rhodes), um poderoso empresário branco que é inimigo de Sontee (Regina King), a mulher pela qual Lance é apaixonado. Com isso, enquanto Sontee busca se aproveitar do dinheiro de Wellington para projetos filantrópicos, Lance irá aproveitar seu novo corpo para enfim poder realizar seu grande sonho. [COLOR white][B] Gênero:[COLOR lime]Clássico / Comédia / Fantasia[/COLOR][/B]</info></item> </info>
+</item>
+
+<item>
+<title>[B]Batman, o Homem-Morcego[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:L5PTYSNDBKXDEBMB6NU5NEXAUNDGTEP2$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:L5PTYSNDBKXDEBMB6NU5NEXAUNDGTEP2$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
+<thumbnail>https://abutretorrents.com/imagens/batman-o-homem-morcego-download-torrent-1966-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://abutretorrents.com/imagens/batman-o-homem-morcego-download-torrent-1966-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Sinopse:[COLOR yellow][B]Em Gotham City Charada (Frank Gorshin), Pinguim (Burgess Meredith), Coringa (Cesar Romero) e Mulher-Gato (Lee Meriweather) roubam uma invenção e planejam usá-la de forma maléfica. Além disto, planejam também destruir o Homem-Morcego e o Menino-Prodígio.
+ [COLOR white][B] Gênero:[COLOR lime]Ação / Aventura / Clássico / Comédia[/COLOR][/B]</info></item> </info>
+</item>
 
  
 <item>
