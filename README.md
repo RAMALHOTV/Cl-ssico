@@ -1,3 +1,14 @@
+<item> 
+ <title>[B][COLOR white]O Soldado do Futuro - [COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72CAD1C04D63185D2DD33BC02679B940FEEE316F$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72CAD1C04D63185D2DD33BC02679B940FEEE316F$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://i.imgur.com/rRqsZ6B.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Clássico / Drama / Ficção</genre>
+ <fanart>https://i.imgur.com/rRqsZ6B.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE: No futuro, as guerras intergalácticas são lutadas por seres meio humanos e meio robôs. Mas o veterano sargento Todd (Kurt Russell) insurge-se contra a ditadura das máquinas e decide enfrentá-las, para proteger um grupo de humanos que vive refugiado num planeta que serve como depósito de lixo de tecnologias ultrapassadas. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+
 <item>
 <title>[B]Mudança do Barulho [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:W35BU3QKOOQTMDGXB6QHSGX3CXEC7VHL$nome=[COLOR yellow]| HD | 1080p[/COLOR]</link>
